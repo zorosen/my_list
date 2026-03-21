@@ -1,0 +1,1105 @@
+<!doctype html>
+<html lang="en-US">
+<head>
+
+	<meta charset="UTF-8">
+	<meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+	<link rel="profile" href="https://gmpg.org/xfn/11">
+	<meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
+	<link href="//www.google-analytics.com" rel="dns-prefetch">
+	<link href="https://nichegamer.com/wp-content/themes/NG_Test_2020/img/icons/favicon.ico" rel="shortcut icon">
+	<link href="https://nichegamer.com/wp-content/themes/NG_Test_2020/img/icons/touch.png" rel="apple-touch-icon-precomposed">
+
+	<title>404 &#x2d; Niche Gamer</title>
+	<style>img:is([sizes="auto" i], [sizes^="auto," i]) { contain-intrinsic-size: 3000px 1500px }</style>
+	
+<meta name="robots" content="max-snippet:-1,max-image-preview:standard,max-video-preview:-1" />
+
+<link rel='dns-prefetch' href='//scripts.mediavine.com' />
+<link rel="alternate" type="application/rss+xml" title="Niche Gamer &raquo; Feed" href="https://nichegamer.com/feed/" />
+<link rel="alternate" type="application/rss+xml" title="Niche Gamer &raquo; Comments Feed" href="https://nichegamer.com/comments/feed/" />
+<script type="text/javascript">
+/* <![CDATA[ */
+window._wpemojiSettings = {"baseUrl":"https:\/\/s.w.org\/images\/core\/emoji\/16.0.1\/72x72\/","ext":".png","svgUrl":"https:\/\/s.w.org\/images\/core\/emoji\/16.0.1\/svg\/","svgExt":".svg","source":{"concatemoji":"https:\/\/nichegamer.com\/wp-includes\/js\/wp-emoji-release.min.js"}};
+/*! This file is auto-generated */
+!function(s,n){var o,i,e;function c(e){try{var t={supportTests:e,timestamp:(new Date).valueOf()};sessionStorage.setItem(o,JSON.stringify(t))}catch(e){}}function p(e,t,n){e.clearRect(0,0,e.canvas.width,e.canvas.height),e.fillText(t,0,0);var t=new Uint32Array(e.getImageData(0,0,e.canvas.width,e.canvas.height).data),a=(e.clearRect(0,0,e.canvas.width,e.canvas.height),e.fillText(n,0,0),new Uint32Array(e.getImageData(0,0,e.canvas.width,e.canvas.height).data));return t.every(function(e,t){return e===a[t]})}function u(e,t){e.clearRect(0,0,e.canvas.width,e.canvas.height),e.fillText(t,0,0);for(var n=e.getImageData(16,16,1,1),a=0;a<n.data.length;a++)if(0!==n.data[a])return!1;return!0}function f(e,t,n,a){switch(t){case"flag":return n(e,"\ud83c\udff3\ufe0f\u200d\u26a7\ufe0f","\ud83c\udff3\ufe0f\u200b\u26a7\ufe0f")?!1:!n(e,"\ud83c\udde8\ud83c\uddf6","\ud83c\udde8\u200b\ud83c\uddf6")&&!n(e,"\ud83c\udff4\udb40\udc67\udb40\udc62\udb40\udc65\udb40\udc6e\udb40\udc67\udb40\udc7f","\ud83c\udff4\u200b\udb40\udc67\u200b\udb40\udc62\u200b\udb40\udc65\u200b\udb40\udc6e\u200b\udb40\udc67\u200b\udb40\udc7f");case"emoji":return!a(e,"\ud83e\udedf")}return!1}function g(e,t,n,a){var r="undefined"!=typeof WorkerGlobalScope&&self instanceof WorkerGlobalScope?new OffscreenCanvas(300,150):s.createElement("canvas"),o=r.getContext("2d",{willReadFrequently:!0}),i=(o.textBaseline="top",o.font="600 32px Arial",{});return e.forEach(function(e){i[e]=t(o,e,n,a)}),i}function t(e){var t=s.createElement("script");t.src=e,t.defer=!0,s.head.appendChild(t)}"undefined"!=typeof Promise&&(o="wpEmojiSettingsSupports",i=["flag","emoji"],n.supports={everything:!0,everythingExceptFlag:!0},e=new Promise(function(e){s.addEventListener("DOMContentLoaded",e,{once:!0})}),new Promise(function(t){var n=function(){try{var e=JSON.parse(sessionStorage.getItem(o));if("object"==typeof e&&"number"==typeof e.timestamp&&(new Date).valueOf()<e.timestamp+604800&&"object"==typeof e.supportTests)return e.supportTests}catch(e){}return null}();if(!n){if("undefined"!=typeof Worker&&"undefined"!=typeof OffscreenCanvas&&"undefined"!=typeof URL&&URL.createObjectURL&&"undefined"!=typeof Blob)try{var e="postMessage("+g.toString()+"("+[JSON.stringify(i),f.toString(),p.toString(),u.toString()].join(",")+"));",a=new Blob([e],{type:"text/javascript"}),r=new Worker(URL.createObjectURL(a),{name:"wpTestEmojiSupports"});return void(r.onmessage=function(e){c(n=e.data),r.terminate(),t(n)})}catch(e){}c(n=g(i,f,p,u))}t(n)}).then(function(e){for(var t in e)n.supports[t]=e[t],n.supports.everything=n.supports.everything&&n.supports[t],"flag"!==t&&(n.supports.everythingExceptFlag=n.supports.everythingExceptFlag&&n.supports[t]);n.supports.everythingExceptFlag=n.supports.everythingExceptFlag&&!n.supports.flag,n.DOMReady=!1,n.readyCallback=function(){n.DOMReady=!0}}).then(function(){return e}).then(function(){var e;n.supports.everything||(n.readyCallback(),(e=n.source||{}).concatemoji?t(e.concatemoji):e.wpemoji&&e.twemoji&&(t(e.twemoji),t(e.wpemoji)))}))}((window,document),window._wpemojiSettings);
+/* ]]> */
+</script>
+<style id='wp-emoji-styles-inline-css' type='text/css'>
+
+	img.wp-smiley, img.emoji {
+		display: inline !important;
+		border: none !important;
+		box-shadow: none !important;
+		height: 1em !important;
+		width: 1em !important;
+		margin: 0 0.07em !important;
+		vertical-align: -0.1em !important;
+		background: none !important;
+		padding: 0 !important;
+	}
+</style>
+<link rel='stylesheet' id='chain-wire-css' href='https://nichegamer.com/wp-content/plugins/chainwire-integration/public/css/chainwire-public.css' type='text/css' media='all' />
+<link rel='stylesheet' id='fancybox-for-wp-css' href='https://nichegamer.com/wp-content/plugins/fancybox-for-wordpress/assets/css/fancybox.css' type='text/css' media='all' />
+<link rel='stylesheet' id='wpa-css-css' href='https://nichegamer.com/wp-content/plugins/honeypot/includes/css/wpa.css' type='text/css' media='all' />
+<link rel='stylesheet' id='lasso-live-css' href='https://nichegamer.com/wp-content/plugins/lasso/admin/assets/css/lasso-live.min.css' type='text/css' media='all' />
+<link rel='stylesheet' id='lasso-table-frontend-css' href='https://nichegamer.com/wp-content/plugins/lasso/admin/assets/css/lasso-table-frontend.min.css' type='text/css' media='all' />
+<link rel='stylesheet' id='dashicons-css' href='https://nichegamer.com/wp-includes/css/dashicons.min.css' type='text/css' media='all' />
+<link rel='stylesheet' id='open-iconic-bootstrap-css' href='https://nichegamer.com/wp-content/themes/NG_Test_2020/assets/css/open-iconic-bootstrap.css' type='text/css' media='all' />
+<link rel='stylesheet' id='bootstrap-4-css' href='https://nichegamer.com/wp-content/themes/NG_Test_2020/assets/css/bootstrap.css' type='text/css' media='all' />
+<link rel='stylesheet' id='wp-bootstrap-4-style-css' href='https://nichegamer.com/wp-content/themes/NG_Test_2020/style.css' type='text/css' media='all' />
+<link rel='stylesheet' id='animate-css' href='https://nichegamer.com/wp-content/themes/NG_Test_2020/assets/css/animate.css' type='text/css' media='all' />
+<link rel='stylesheet' id='lazyload-video-css-css' href='https://nichegamer.com/wp-content/plugins/lazy-load-for-videos/public/css/lazyload-shared.css' type='text/css' media='all' />
+<style id='lazyload-video-css-inline-css' type='text/css'>
+.entry-content a.lazy-load-youtube, a.lazy-load-youtube, .lazy-load-vimeo{ background-size: cover; }.titletext.youtube { display: none; }.lazy-load-div { background: url(https://nichegamer.com/wp-content/plugins/lazy-load-for-videos//public/play-y-red.png) center center no-repeat; }
+</style>
+<script type="text/javascript" src="https://nichegamer.com/wp-includes/js/jquery/jquery.min.js" id="jquery-core-js"></script>
+<script type="text/javascript" src="https://nichegamer.com/wp-includes/js/jquery/jquery-migrate.min.js" id="jquery-migrate-js"></script>
+<script type="text/javascript" src="https://nichegamer.com/wp-content/plugins/fancybox-for-wordpress/assets/js/purify.min.js" id="purify-js"></script>
+<script type="text/javascript" src="https://nichegamer.com/wp-content/plugins/fancybox-for-wordpress/assets/js/jquery.fancybox.js" id="fancybox-for-wp-js"></script>
+<script type="text/javascript" async="async" fetchpriority="high" data-noptimize="1" data-cfasync="false" src="https://scripts.mediavine.com/tags/niche-gamer.js" id="mv-script-wrapper-js"></script>
+<link rel="https://api.w.org/" href="https://nichegamer.com/wp-json/" /><link rel="EditURI" type="application/rsd+xml" title="RSD" href="https://nichegamer.com/xmlrpc.php?rsd" />
+
+<!-- Fancybox for WordPress v3.3.7 -->
+<style type="text/css">
+	.fancybox-slide--image .fancybox-content{background-color: #FFFFFF}div.fancybox-caption{display:none !important;}
+	
+	img.fancybox-image{border-width:10px;border-color:#FFFFFF;border-style:solid;}
+	div.fancybox-bg{background-color:rgba(102,102,102,0.3);opacity:1 !important;}div.fancybox-content{border-color:#FFFFFF}
+	div#fancybox-title{background-color:#FFFFFF}
+	div.fancybox-content{background-color:#FFFFFF}
+	div#fancybox-title-inside{color:#333333}
+	
+	
+	
+	div.fancybox-caption p.caption-title{display:inline-block}
+	div.fancybox-caption p.caption-title{font-size:14px}
+	div.fancybox-caption p.caption-title{color:#333333}
+	div.fancybox-caption {color:#333333}div.fancybox-caption p.caption-title {background:#fff; width:auto;padding:10px 30px;}div.fancybox-content p.caption-title{color:#333333;margin: 0;padding: 5px 0;}body.fancybox-active .fancybox-container .fancybox-stage .fancybox-content .fancybox-close-small{display:block;}
+</style><script type="text/javascript">
+	jQuery(function () {
+
+		var mobileOnly = false;
+		
+		if (mobileOnly) {
+			return;
+		}
+
+		jQuery.fn.getTitle = function () { // Copy the title of every IMG tag and add it to its parent A so that fancybox can show titles
+			var arr = jQuery("a[data-fancybox]");jQuery.each(arr, function() {var title = jQuery(this).children("img").attr("title") || '';var figCaptionHtml = jQuery(this).next("figcaption").html() || '';var processedCaption = figCaptionHtml;if (figCaptionHtml.length && typeof DOMPurify === 'function') {processedCaption = DOMPurify.sanitize(figCaptionHtml, {USE_PROFILES: {html: true}});} else if (figCaptionHtml.length) {processedCaption = jQuery("<div>").text(figCaptionHtml).html();}var newTitle = title;if (processedCaption.length) {newTitle = title.length ? title + " " + processedCaption : processedCaption;}if (newTitle.length) {jQuery(this).attr("title", newTitle);}});		}
+
+		// Supported file extensions
+
+				var thumbnails = jQuery("a:has(img)").not(".nolightbox").not('.envira-gallery-link').not('.ngg-simplelightbox').filter(function () {
+			return /\.(jpe?g|png|gif|mp4|webp|bmp|pdf)(\?[^/]*)*$/i.test(jQuery(this).attr('href'))
+		});
+		
+
+		// Add data-type iframe for links that are not images or videos.
+		var iframeLinks = jQuery('.fancyboxforwp').filter(function () {
+			return !/\.(jpe?g|png|gif|mp4|webp|bmp|pdf)(\?[^/]*)*$/i.test(jQuery(this).attr('href'))
+		}).filter(function () {
+			return !/vimeo|youtube/i.test(jQuery(this).attr('href'))
+		});
+		iframeLinks.attr({"data-type": "iframe"}).getTitle();
+
+				// Gallery All
+		thumbnails.addClass("fancyboxforwp").attr("data-fancybox", "gallery").getTitle();
+		iframeLinks.attr({"data-fancybox": "gallery"}).getTitle();
+
+		// Gallery type NONE
+		
+		// Call fancybox and apply it on any link with a rel atribute that starts with "fancybox", with the options set on the admin panel
+		jQuery("a.fancyboxforwp").fancyboxforwp({
+			loop: false,
+			smallBtn: true,
+			zoomOpacity: "auto",
+			animationEffect: "fade",
+			animationDuration: 500,
+			transitionEffect: "fade",
+			transitionDuration: "300",
+			overlayShow: true,
+			overlayOpacity: "0.3",
+			titleShow: true,
+			titlePosition: "inside",
+			keyboard: true,
+			showCloseButton: true,
+			arrows: true,
+			clickContent:false,
+			clickSlide: "close",
+			mobile: {
+				clickContent: function (current, event) {
+					return current.type === "image" ? "toggleControls" : false;
+				},
+				clickSlide: function (current, event) {
+					return current.type === "image" ? "close" : "close";
+				},
+			},
+			wheel: false,
+			toolbar: true,
+			preventCaptionOverlap: true,
+			onInit: function() { },			onDeactivate
+	: function() { },		beforeClose: function() { },			afterShow: function(instance) { jQuery( ".fancybox-image" ).on("click", function( ){ ( instance.isScaledDown() ) ? instance.scaleToActual() : instance.scaleToFit() }) },				afterClose: function() { },					caption : function( instance, item ) {var title = "";if("undefined" != typeof jQuery(this).context ){var title = jQuery(this).context.title;} else { var title = ("undefined" != typeof jQuery(this).attr("title")) ? jQuery(this).attr("title") : false;}var caption = jQuery(this).data('caption') || '';if ( item.type === 'image' && title.length ) {caption = (caption.length ? caption + '<br />' : '') + '<p class="caption-title">'+jQuery("<div>").text(title).html()+'</p>' ;}if (typeof DOMPurify === "function" && caption.length) { return DOMPurify.sanitize(caption, {USE_PROFILES: {html: true}}); } else { return jQuery("<div>").text(caption).html(); }},
+		afterLoad : function( instance, current ) {var captionContent = current.opts.caption || '';var sanitizedCaptionString = '';if (typeof DOMPurify === 'function' && captionContent.length) {sanitizedCaptionString = DOMPurify.sanitize(captionContent, {USE_PROFILES: {html: true}});} else if (captionContent.length) { sanitizedCaptionString = jQuery("<div>").text(captionContent).html();}if (sanitizedCaptionString.length) { current.$content.append(jQuery('<div class=\"fancybox-custom-caption inside-caption\" style=\" position: absolute;left:0;right:0;color:#000;margin:0 auto;bottom:0;text-align:center;background-color:#FFFFFF \"></div>').html(sanitizedCaptionString)); }},
+			})
+		;
+
+			})
+</script>
+<!-- END Fancybox for WordPress -->
+<style type="text/css">
+			:root{
+				--lasso-main: black !important;
+				--lasso-title: black !important;
+				--lasso-button: #22BAA0 !important;
+				--lasso-secondary-button: #22BAA0 !important;
+				--lasso-button-text: white !important;
+				--lasso-background: white !important;
+				--lasso-pros: #22BAA0 !important;
+				--lasso-cons: #E06470 !important;
+			}
+			
+			
+		</style>
+			<script type="text/javascript">
+				// Notice how this gets configured before we load Font Awesome
+				let lassoFontAwesomeJS = "" == 1
+				// console.log("lassoFontAwesomeJS", lassoFontAwesomeJS)
+				window.FontAwesomeConfig = { autoReplaceSvg: lassoFontAwesomeJS }
+			</script>
+				<style type="text/css" id="wp-custom-css">
+			.page-id-162707 .entry-title{
+display:none;
+}                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                    |
+| .top_posts_deck {
+	margin-right: 0;
+	margin-left: 0;
+}
+
+.top_posts {
+	margin-right: 3px !important;
+	margin-left: 3px !important;
+}
+
+.top_posts_url {
+	color: #ffffff;
+}
+
+.top_posts_body {
+	padding: 0;
+	flex: none;
+}
+
+.top_post_title_wrap {
+	position: absolute;
+  bottom: 0px;
+  width: 100%;
+	background-color: #273138;
+  opacity: 0.8;
+}
+
+.top_posts_title {
+	color: #fff;
+  font-family: montserrat,sans-serif;
+  font-size: 18px;
+  font-weight: 700;
+	padding: 5px 10px 5px 10px
+}
+
+.top_posts_title a:hover {
+	text-decoration: none;
+	color: #007bff;
+}
+
+@media only screen and (max-width: 768px) {
+	.top_posts {
+		min-width: 100%;
+	}
+	
+	.top_posts_deck {
+		flex-direction: row;	
+		width: 300px;
+		margin-right: 312px;
+	}
+	
+	.slider-container {
+		overflow-x: scroll;
+    display: flex;
+	}
+}
+
+.btn-primary {
+	background-color: #00bfff;
+  border-color: #00bfff;
+	padding: 0.5rem 1.75rem;
+}
+
+nav img {
+	width: 400px !important;
+}
+
+@media only screen and (max-width: 768px) {
+	nav img {
+		width: 220px !important;
+	}
+}
+
+.menu-search-icon {
+	padding-top: 0;
+	cursor: pointer;
+}
+
+.login-icon {
+	cursor: pointer;
+}
+
+.main-navigation-desktop, .main-navigation-mobile {
+	background-color: #273138;
+	height: 60px;
+	margin-left: -13px;
+  margin-right: -13px;
+}
+
+.main-navigation-mobile {
+	display: none;
+}
+
+.search-nav {
+	height: 60px;
+	margin-left: -13px;
+  margin-right: -13px;
+}
+
+.search-nav .container {
+	background-color: transparent !important;
+}
+
+.login-menu-button {
+	display: none;
+}
+
+.site-footer {
+	margin-left: -13px;
+  margin-right: -13px;
+}
+
+.footer-copyright .container {
+	background-color: #273138;
+}
+
+.slider-row, .card {
+	background-color: transparent !important;
+}
+
+#mega-menu-wrap-menu-1 #mega-menu-menu-1>li.mega-menu-megamenu>ul.mega-sub-menu li.mega-menu-column>ul.mega-sub-menu>li.mega-menu-item>a.mega-menu-link {
+	color: #00bfff !important;
+}
+
+@media only screen and (max-width: 768px) {
+	.navbar-collapse {
+		background-color: #273138;
+  	margin-top: 28px;
+	}
+	
+	.main-navigation-mobile {
+		display: flex;
+	}
+	
+	.main-navigation-desktop {
+		display: none;
+	}
+	
+	.mega-menu-horizontal {
+		height: 100vh !important;
+	}
+	
+	.login-menu-button {
+		display: block;
+	}
+	
+	.login-menu-button {
+		margin: auto;
+		margin-top: 20px;
+    padding-left: 100px;
+    padding-right: 100px;
+    padding-top: 5px;
+    padding-bottom: 5px;
+    background-color: #00bfff;
+    border-radius: 10px;
+		color: #ffffff;
+	}
+	
+	.mega-menu-item {
+		border-bottom: 2px solid #d6cccc !important;
+		padding: 6px !important;
+	}
+}
+
+#div-insticator-ad-cmt-1, #div-insticator-ad-cmt-2, #div-insticator-ad-cmt-3, #div-insticator-ad-cmt-4 {
+  min-height: 280px!important;
+  margin:15px auto 15px auto!important;
+}
+To fix shifting and padding on ads
+#div-insticator-ad-3  {
+  min-height: 280px!important;
+}
+#div-insticator-ad-4  {
+  min-height: 280px!important;
+}
+#div-insticator-ad-5  {
+  min-height: 280px!important;
+}
+#div-insticator-ad-6  {
+  min-height: 280px!important;
+}
+@media screen and (min-width: 1025px) {
+  #div-insticator-ad-7  {
+    min-height: 90px!important;
+    margin:15px auto 15px auto!important;
+  }
+}
+@media screen and (max-width: 1024px) {
+  #div-insticator-ad-7 {
+    min-height: 280px!important;
+    margin:15px auto 15px auto!important;
+  }
+}
+@media screen and (min-width: 1025px) {
+  #div-insticator-ad-8  {
+    min-height: 90px!important;
+    margin:15px auto 15px auto!important;
+  }
+}
+@media screen and (max-width: 1024px) {
+  #div-insticator-ad-8 {
+    min-height: 280px!important;
+    margin:15px auto 15px auto!important;
+  }
+}
+@media screen and (min-width: 1025px) {
+  #div-insticator-ad-9  {
+    min-height: 90px!important;
+    margin:15px auto 15px auto!important;
+  }
+}
+@media screen and (max-width: 1024px) {
+  #div-insticator-ad-9 {
+    min-height: 280px!important;
+    margin:15px auto 15px auto!important;
+  }
+}
+@media screen and (min-width: 1025px) {
+  #div-insticator-ad-10  {
+    min-height: 90px!important;
+    margin:20px auto 20px auto!important;
+  }
+}
+@media screen and (max-width: 1024px) {
+  #div-insticator-ad-10 {
+    min-height: 100px!important;
+    margin:15px auto 15px auto!important;
+  }
+}
+#div-insticator-ad-11  {
+  min-height: 280px!important;
+  margin:15px auto 15px auto!important;
+}		</style>
+		<style type="text/css">/** Saturday 16th December 2023 21:16:37 UTC (core) **//** THIS FILE IS AUTOMATICALLY GENERATED - DO NOT MAKE MANUAL EDITS! **//** Custom CSS should be added to Mega Menu > Menu Themes > Custom Styling **/.mega-menu-last-modified-1702761397 { content: 'Saturday 16th December 2023 21:16:37 UTC'; }#mega-menu-wrap-menu-1, #mega-menu-wrap-menu-1 #mega-menu-menu-1, #mega-menu-wrap-menu-1 #mega-menu-menu-1 ul.mega-sub-menu, #mega-menu-wrap-menu-1 #mega-menu-menu-1 li.mega-menu-item, #mega-menu-wrap-menu-1 #mega-menu-menu-1 li.mega-menu-row, #mega-menu-wrap-menu-1 #mega-menu-menu-1 li.mega-menu-column, #mega-menu-wrap-menu-1 #mega-menu-menu-1 a.mega-menu-link, #mega-menu-wrap-menu-1 #mega-menu-menu-1 span.mega-menu-badge {transition: none;border-radius: 0;box-shadow: none;background: none;border: 0;bottom: auto;box-sizing: border-box;clip: auto;color: #00bfff;display: block;float: none;font-family: inherit;font-size: 14px;height: auto;left: auto;line-height: 1.7;list-style-type: none;margin: 0;min-height: auto;max-height: none;min-width: auto;max-width: none;opacity: 1;outline: none;overflow: visible;padding: 0;position: relative;pointer-events: auto;right: auto;text-align: left;text-decoration: none;text-indent: 0;text-transform: none;transform: none;top: auto;vertical-align: baseline;visibility: inherit;width: auto;word-wrap: break-word;white-space: normal;}#mega-menu-wrap-menu-1:before, #mega-menu-wrap-menu-1 #mega-menu-menu-1:before, #mega-menu-wrap-menu-1 #mega-menu-menu-1 ul.mega-sub-menu:before, #mega-menu-wrap-menu-1 #mega-menu-menu-1 li.mega-menu-item:before, #mega-menu-wrap-menu-1 #mega-menu-menu-1 li.mega-menu-row:before, #mega-menu-wrap-menu-1 #mega-menu-menu-1 li.mega-menu-column:before, #mega-menu-wrap-menu-1 #mega-menu-menu-1 a.mega-menu-link:before, #mega-menu-wrap-menu-1 #mega-menu-menu-1 span.mega-menu-badge:before, #mega-menu-wrap-menu-1:after, #mega-menu-wrap-menu-1 #mega-menu-menu-1:after, #mega-menu-wrap-menu-1 #mega-menu-menu-1 ul.mega-sub-menu:after, #mega-menu-wrap-menu-1 #mega-menu-menu-1 li.mega-menu-item:after, #mega-menu-wrap-menu-1 #mega-menu-menu-1 li.mega-menu-row:after, #mega-menu-wrap-menu-1 #mega-menu-menu-1 li.mega-menu-column:after, #mega-menu-wrap-menu-1 #mega-menu-menu-1 a.mega-menu-link:after, #mega-menu-wrap-menu-1 #mega-menu-menu-1 span.mega-menu-badge:after {display: none;}#mega-menu-wrap-menu-1 {border-radius: 0;}@media only screen and (min-width: 769px) {#mega-menu-wrap-menu-1 {background: #273138;}}#mega-menu-wrap-menu-1.mega-keyboard-navigation .mega-menu-toggle:focus, #mega-menu-wrap-menu-1.mega-keyboard-navigation .mega-toggle-block:focus, #mega-menu-wrap-menu-1.mega-keyboard-navigation .mega-toggle-block a:focus, #mega-menu-wrap-menu-1.mega-keyboard-navigation .mega-toggle-block .mega-search input[type=text]:focus, #mega-menu-wrap-menu-1.mega-keyboard-navigation .mega-toggle-block button.mega-toggle-animated:focus, #mega-menu-wrap-menu-1.mega-keyboard-navigation #mega-menu-menu-1 a:focus, #mega-menu-wrap-menu-1.mega-keyboard-navigation #mega-menu-menu-1 span:focus, #mega-menu-wrap-menu-1.mega-keyboard-navigation #mega-menu-menu-1 input:focus, #mega-menu-wrap-menu-1.mega-keyboard-navigation #mega-menu-menu-1 li.mega-menu-item a.mega-menu-link:focus {outline: 3px solid #109cde;outline-offset: -3px;}#mega-menu-wrap-menu-1.mega-keyboard-navigation .mega-toggle-block button.mega-toggle-animated:focus {outline-offset: 2px;}#mega-menu-wrap-menu-1.mega-keyboard-navigation > li.mega-menu-item > a.mega-menu-link:focus {background: #273138;color: #00bfff;font-weight: normal;text-decoration: none;border-color: #fff;}@media only screen and (max-width: 768px) {#mega-menu-wrap-menu-1.mega-keyboard-navigation > li.mega-menu-item > a.mega-menu-link:focus {color: #fff;background: #273138;}}#mega-menu-wrap-menu-1 #mega-menu-menu-1 {visibility: visible;text-align: left;padding: 0px 0px 0px 0px;}#mega-menu-wrap-menu-1 #mega-menu-menu-1 a.mega-menu-link {cursor: pointer;display: inline;}#mega-menu-wrap-menu-1 #mega-menu-menu-1 a.mega-menu-link .mega-description-group {vertical-align: middle;display: inline-block;transition: none;}#mega-menu-wrap-menu-1 #mega-menu-menu-1 a.mega-menu-link .mega-description-group .mega-menu-title, #mega-menu-wrap-menu-1 #mega-menu-menu-1 a.mega-menu-link .mega-description-group .mega-menu-description {transition: none;line-height: 1.5;display: block;}#mega-menu-wrap-menu-1 #mega-menu-menu-1 a.mega-menu-link .mega-description-group .mega-menu-description {font-style: italic;font-size: 0.8em;text-transform: none;font-weight: normal;}#mega-menu-wrap-menu-1 #mega-menu-menu-1 li.mega-menu-megamenu li.mega-menu-item.mega-icon-left.mega-has-description.mega-has-icon > a.mega-menu-link {display: flex;align-items: center;}#mega-menu-wrap-menu-1 #mega-menu-menu-1 li.mega-menu-megamenu li.mega-menu-item.mega-icon-left.mega-has-description.mega-has-icon > a.mega-menu-link:before {flex: 0 0 auto;align-self: flex-start;}#mega-menu-wrap-menu-1 #mega-menu-menu-1 li.mega-menu-tabbed.mega-menu-megamenu > ul.mega-sub-menu > li.mega-menu-item.mega-icon-left.mega-has-description.mega-has-icon > a.mega-menu-link {display: block;}#mega-menu-wrap-menu-1 #mega-menu-menu-1 li.mega-menu-item.mega-icon-top > a.mega-menu-link {display: table-cell;vertical-align: middle;line-height: initial;}#mega-menu-wrap-menu-1 #mega-menu-menu-1 li.mega-menu-item.mega-icon-top > a.mega-menu-link:before {display: block;margin: 0 0 6px 0;text-align: center;}#mega-menu-wrap-menu-1 #mega-menu-menu-1 li.mega-menu-item.mega-icon-top > a.mega-menu-link > span.mega-title-below {display: inline-block;transition: none;}@media only screen and (max-width: 768px) {#mega-menu-wrap-menu-1 #mega-menu-menu-1 > li.mega-menu-item.mega-icon-top > a.mega-menu-link {display: block;line-height: 40px;}#mega-menu-wrap-menu-1 #mega-menu-menu-1 > li.mega-menu-item.mega-icon-top > a.mega-menu-link:before {display: inline-block;margin: 0 6px 0 0;text-align: left;}}#mega-menu-wrap-menu-1 #mega-menu-menu-1 li.mega-menu-item.mega-icon-right > a.mega-menu-link:before {float: right;margin: 0 0 0 6px;}#mega-menu-wrap-menu-1 #mega-menu-menu-1 > li.mega-animating > ul.mega-sub-menu {pointer-events: none;}#mega-menu-wrap-menu-1 #mega-menu-menu-1 li.mega-disable-link > a.mega-menu-link, #mega-menu-wrap-menu-1 #mega-menu-menu-1 li.mega-menu-megamenu li.mega-disable-link > a.mega-menu-link {cursor: inherit;}#mega-menu-wrap-menu-1 #mega-menu-menu-1 li.mega-menu-item-has-children.mega-disable-link > a.mega-menu-link, #mega-menu-wrap-menu-1 #mega-menu-menu-1 li.mega-menu-megamenu > li.mega-menu-item-has-children.mega-disable-link > a.mega-menu-link {cursor: pointer;}#mega-menu-wrap-menu-1 #mega-menu-menu-1 p {margin-bottom: 10px;}#mega-menu-wrap-menu-1 #mega-menu-menu-1 input, #mega-menu-wrap-menu-1 #mega-menu-menu-1 img {max-width: 100%;}#mega-menu-wrap-menu-1 #mega-menu-menu-1 li.mega-menu-item > ul.mega-sub-menu {display: block;visibility: hidden;opacity: 1;pointer-events: auto;}@media only screen and (max-width: 768px) {#mega-menu-wrap-menu-1 #mega-menu-menu-1 li.mega-menu-item > ul.mega-sub-menu {display: none;visibility: visible;opacity: 1;}#mega-menu-wrap-menu-1 #mega-menu-menu-1 li.mega-menu-item.mega-toggle-on > ul.mega-sub-menu, #mega-menu-wrap-menu-1 #mega-menu-menu-1 li.mega-menu-megamenu.mega-menu-item.mega-toggle-on ul.mega-sub-menu {display: block;}#mega-menu-wrap-menu-1 #mega-menu-menu-1 li.mega-menu-megamenu.mega-menu-item.mega-toggle-on li.mega-hide-sub-menu-on-mobile > ul.mega-sub-menu, #mega-menu-wrap-menu-1 #mega-menu-menu-1 li.mega-hide-sub-menu-on-mobile > ul.mega-sub-menu {display: none;}}@media only screen and (min-width: 769px) {#mega-menu-wrap-menu-1 #mega-menu-menu-1[data-effect="fade"] li.mega-menu-item > ul.mega-sub-menu {opacity: 0;transition: opacity 200ms ease-in, visibility 200ms ease-in;}#mega-menu-wrap-menu-1 #mega-menu-menu-1[data-effect="fade"].mega-no-js li.mega-menu-item:hover > ul.mega-sub-menu, #mega-menu-wrap-menu-1 #mega-menu-menu-1[data-effect="fade"].mega-no-js li.mega-menu-item:focus > ul.mega-sub-menu, #mega-menu-wrap-menu-1 #mega-menu-menu-1[data-effect="fade"] li.mega-menu-item.mega-toggle-on > ul.mega-sub-menu, #mega-menu-wrap-menu-1 #mega-menu-menu-1[data-effect="fade"] li.mega-menu-item.mega-menu-megamenu.mega-toggle-on ul.mega-sub-menu {opacity: 1;}#mega-menu-wrap-menu-1 #mega-menu-menu-1[data-effect="fade_up"] li.mega-menu-item.mega-menu-megamenu > ul.mega-sub-menu, #mega-menu-wrap-menu-1 #mega-menu-menu-1[data-effect="fade_up"] li.mega-menu-item.mega-menu-flyout ul.mega-sub-menu {opacity: 0;transform: translate(0, 10px);transition: opacity 200ms ease-in, transform 200ms ease-in, visibility 200ms ease-in;}#mega-menu-wrap-menu-1 #mega-menu-menu-1[data-effect="fade_up"].mega-no-js li.mega-menu-item:hover > ul.mega-sub-menu, #mega-menu-wrap-menu-1 #mega-menu-menu-1[data-effect="fade_up"].mega-no-js li.mega-menu-item:focus > ul.mega-sub-menu, #mega-menu-wrap-menu-1 #mega-menu-menu-1[data-effect="fade_up"] li.mega-menu-item.mega-toggle-on > ul.mega-sub-menu, #mega-menu-wrap-menu-1 #mega-menu-menu-1[data-effect="fade_up"] li.mega-menu-item.mega-menu-megamenu.mega-toggle-on ul.mega-sub-menu {opacity: 1;transform: translate(0, 0);}#mega-menu-wrap-menu-1 #mega-menu-menu-1[data-effect="slide_up"] li.mega-menu-item.mega-menu-megamenu > ul.mega-sub-menu, #mega-menu-wrap-menu-1 #mega-menu-menu-1[data-effect="slide_up"] li.mega-menu-item.mega-menu-flyout ul.mega-sub-menu {transform: translate(0, 10px);transition: transform 200ms ease-in, visibility 200ms ease-in;}#mega-menu-wrap-menu-1 #mega-menu-menu-1[data-effect="slide_up"].mega-no-js li.mega-menu-item:hover > ul.mega-sub-menu, #mega-menu-wrap-menu-1 #mega-menu-menu-1[data-effect="slide_up"].mega-no-js li.mega-menu-item:focus > ul.mega-sub-menu, #mega-menu-wrap-menu-1 #mega-menu-menu-1[data-effect="slide_up"] li.mega-menu-item.mega-toggle-on > ul.mega-sub-menu, #mega-menu-wrap-menu-1 #mega-menu-menu-1[data-effect="slide_up"] li.mega-menu-item.mega-menu-megamenu.mega-toggle-on ul.mega-sub-menu {transform: translate(0, 0);}}#mega-menu-wrap-menu-1 #mega-menu-menu-1 li.mega-menu-item.mega-menu-megamenu ul.mega-sub-menu li.mega-collapse-children > ul.mega-sub-menu {display: none;}#mega-menu-wrap-menu-1 #mega-menu-menu-1 li.mega-menu-item.mega-menu-megamenu ul.mega-sub-menu li.mega-collapse-children.mega-toggle-on > ul.mega-sub-menu {display: block;}#mega-menu-wrap-menu-1 #mega-menu-menu-1.mega-no-js li.mega-menu-item:hover > ul.mega-sub-menu, #mega-menu-wrap-menu-1 #mega-menu-menu-1.mega-no-js li.mega-menu-item:focus > ul.mega-sub-menu, #mega-menu-wrap-menu-1 #mega-menu-menu-1 li.mega-menu-item.mega-toggle-on > ul.mega-sub-menu {visibility: visible;}#mega-menu-wrap-menu-1 #mega-menu-menu-1 li.mega-menu-item.mega-menu-megamenu ul.mega-sub-menu ul.mega-sub-menu {visibility: inherit;opacity: 1;display: block;}#mega-menu-wrap-menu-1 #mega-menu-menu-1 li.mega-menu-item.mega-menu-megamenu ul.mega-sub-menu li.mega-1-columns > ul.mega-sub-menu > li.mega-menu-item {float: left;width: 100%;}#mega-menu-wrap-menu-1 #mega-menu-menu-1 li.mega-menu-item.mega-menu-megamenu ul.mega-sub-menu li.mega-2-columns > ul.mega-sub-menu > li.mega-menu-item {float: left;width: 50%;}#mega-menu-wrap-menu-1 #mega-menu-menu-1 li.mega-menu-item.mega-menu-megamenu ul.mega-sub-menu li.mega-3-columns > ul.mega-sub-menu > li.mega-menu-item {float: left;width: 33.33333%;}#mega-menu-wrap-menu-1 #mega-menu-menu-1 li.mega-menu-item.mega-menu-megamenu ul.mega-sub-menu li.mega-4-columns > ul.mega-sub-menu > li.mega-menu-item {float: left;width: 25%;}#mega-menu-wrap-menu-1 #mega-menu-menu-1 li.mega-menu-item.mega-menu-megamenu ul.mega-sub-menu li.mega-5-columns > ul.mega-sub-menu > li.mega-menu-item {float: left;width: 20%;}#mega-menu-wrap-menu-1 #mega-menu-menu-1 li.mega-menu-item.mega-menu-megamenu ul.mega-sub-menu li.mega-6-columns > ul.mega-sub-menu > li.mega-menu-item {float: left;width: 16.66667%;}#mega-menu-wrap-menu-1 #mega-menu-menu-1 li.mega-menu-item a[class^='dashicons']:before {font-family: dashicons;}#mega-menu-wrap-menu-1 #mega-menu-menu-1 li.mega-menu-item a.mega-menu-link:before {display: inline-block;font: inherit;font-family: dashicons;position: static;margin: 0 6px 0 0px;vertical-align: top;-webkit-font-smoothing: antialiased;-moz-osx-font-smoothing: grayscale;color: inherit;background: transparent;height: auto;width: auto;top: auto;}#mega-menu-wrap-menu-1 #mega-menu-menu-1 li.mega-menu-item.mega-hide-text a.mega-menu-link:before {margin: 0;}#mega-menu-wrap-menu-1 #mega-menu-menu-1 li.mega-menu-item.mega-hide-text li.mega-menu-item a.mega-menu-link:before {margin: 0 6px 0 0;}#mega-menu-wrap-menu-1 #mega-menu-menu-1 li.mega-align-bottom-left.mega-toggle-on > a.mega-menu-link {border-radius: 0;}#mega-menu-wrap-menu-1 #mega-menu-menu-1 li.mega-align-bottom-right > ul.mega-sub-menu {right: 0;}#mega-menu-wrap-menu-1 #mega-menu-menu-1 li.mega-align-bottom-right.mega-toggle-on > a.mega-menu-link {border-radius: 0;}#mega-menu-wrap-menu-1 #mega-menu-menu-1 > li.mega-menu-megamenu.mega-menu-item {position: static;}#mega-menu-wrap-menu-1 #mega-menu-menu-1 > li.mega-menu-item {margin: 0 0px 0 0;display: inline-block;height: auto;vertical-align: middle;}#mega-menu-wrap-menu-1 #mega-menu-menu-1 > li.mega-menu-item.mega-item-align-right {float: right;}@media only screen and (min-width: 769px) {#mega-menu-wrap-menu-1 #mega-menu-menu-1 > li.mega-menu-item.mega-item-align-right {margin: 0 0 0 0px;}}@media only screen and (min-width: 769px) {#mega-menu-wrap-menu-1 #mega-menu-menu-1 > li.mega-menu-item.mega-item-align-float-left {float: left;}}@media only screen and (min-width: 769px) {#mega-menu-wrap-menu-1 #mega-menu-menu-1 > li.mega-menu-item > a.mega-menu-link:hover {background: #273138;color: #00bfff;font-weight: normal;text-decoration: none;border-color: #fff;}}#mega-menu-wrap-menu-1 #mega-menu-menu-1 > li.mega-menu-item.mega-toggle-on > a.mega-menu-link {background: #273138;color: #00bfff;font-weight: normal;text-decoration: none;border-color: #fff;}@media only screen and (max-width: 768px) {#mega-menu-wrap-menu-1 #mega-menu-menu-1 > li.mega-menu-item.mega-toggle-on > a.mega-menu-link {color: #fff;background: #273138;}}#mega-menu-wrap-menu-1 #mega-menu-menu-1 > li.mega-menu-item.mega-current-menu-item > a.mega-menu-link, #mega-menu-wrap-menu-1 #mega-menu-menu-1 > li.mega-menu-item.mega-current-menu-ancestor > a.mega-menu-link, #mega-menu-wrap-menu-1 #mega-menu-menu-1 > li.mega-menu-item.mega-current-page-ancestor > a.mega-menu-link {background: #273138;color: #00bfff;font-weight: normal;text-decoration: none;border-color: #fff;}@media only screen and (max-width: 768px) {#mega-menu-wrap-menu-1 #mega-menu-menu-1 > li.mega-menu-item.mega-current-menu-item > a.mega-menu-link, #mega-menu-wrap-menu-1 #mega-menu-menu-1 > li.mega-menu-item.mega-current-menu-ancestor > a.mega-menu-link, #mega-menu-wrap-menu-1 #mega-menu-menu-1 > li.mega-menu-item.mega-current-page-ancestor > a.mega-menu-link {color: #fff;background: #273138;}}#mega-menu-wrap-menu-1 #mega-menu-menu-1 > li.mega-menu-item > a.mega-menu-link {line-height: 40px;height: 40px;padding: 0px 10px 0px 10px;vertical-align: baseline;width: auto;display: block;color: #fff;text-transform: none;text-decoration: none;text-align: left;background: rgba(0, 0, 0, 0);border: 0;border-radius: 0;font-family: inherit;font-size: 14px;font-weight: normal;outline: none;}@media only screen and (min-width: 769px) {#mega-menu-wrap-menu-1 #mega-menu-menu-1 > li.mega-menu-item.mega-multi-line > a.mega-menu-link {line-height: inherit;display: table-cell;vertical-align: middle;}}@media only screen and (max-width: 768px) {#mega-menu-wrap-menu-1 #mega-menu-menu-1 > li.mega-menu-item.mega-multi-line > a.mega-menu-link br {display: none;}}@media only screen and (max-width: 768px) {#mega-menu-wrap-menu-1 #mega-menu-menu-1 > li.mega-menu-item {display: list-item;margin: 0;clear: both;border: 0;}#mega-menu-wrap-menu-1 #mega-menu-menu-1 > li.mega-menu-item.mega-item-align-right {float: none;}#mega-menu-wrap-menu-1 #mega-menu-menu-1 > li.mega-menu-item > a.mega-menu-link {border-radius: 0;border: 0;margin: 0;line-height: 40px;height: 40px;padding: 0 10px;background: transparent;text-align: left;color: #fff;font-size: 14px;}}#mega-menu-wrap-menu-1 #mega-menu-menu-1 li.mega-menu-megamenu > ul.mega-sub-menu > li.mega-menu-row {width: 100%;float: left;}#mega-menu-wrap-menu-1 #mega-menu-menu-1 li.mega-menu-megamenu > ul.mega-sub-menu > li.mega-menu-row .mega-menu-column {float: left;min-height: 1px;}@media only screen and (min-width: 769px) {#mega-menu-wrap-menu-1 #mega-menu-menu-1 li.mega-menu-megamenu > ul.mega-sub-menu > li.mega-menu-row > ul.mega-sub-menu > li.mega-menu-columns-1-of-1 {width: 100%;}#mega-menu-wrap-menu-1 #mega-menu-menu-1 li.mega-menu-megamenu > ul.mega-sub-menu > li.mega-menu-row > ul.mega-sub-menu > li.mega-menu-columns-1-of-2 {width: 50%;}#mega-menu-wrap-menu-1 #mega-menu-menu-1 li.mega-menu-megamenu > ul.mega-sub-menu > li.mega-menu-row > ul.mega-sub-menu > li.mega-menu-columns-2-of-2 {width: 100%;}#mega-menu-wrap-menu-1 #mega-menu-menu-1 li.mega-menu-megamenu > ul.mega-sub-menu > li.mega-menu-row > ul.mega-sub-menu > li.mega-menu-columns-1-of-3 {width: 33.33333%;}#mega-menu-wrap-menu-1 #mega-menu-menu-1 li.mega-menu-megamenu > ul.mega-sub-menu > li.mega-menu-row > ul.mega-sub-menu > li.mega-menu-columns-2-of-3 {width: 66.66667%;}#mega-menu-wrap-menu-1 #mega-menu-menu-1 li.mega-menu-megamenu > ul.mega-sub-menu > li.mega-menu-row > ul.mega-sub-menu > li.mega-menu-columns-3-of-3 {width: 100%;}#mega-menu-wrap-menu-1 #mega-menu-menu-1 li.mega-menu-megamenu > ul.mega-sub-menu > li.mega-menu-row > ul.mega-sub-menu > li.mega-menu-columns-1-of-4 {width: 25%;}#mega-menu-wrap-menu-1 #mega-menu-menu-1 li.mega-menu-megamenu > ul.mega-sub-menu > li.mega-menu-row > ul.mega-sub-menu > li.mega-menu-columns-2-of-4 {width: 50%;}#mega-menu-wrap-menu-1 #mega-menu-menu-1 li.mega-menu-megamenu > ul.mega-sub-menu > li.mega-menu-row > ul.mega-sub-menu > li.mega-menu-columns-3-of-4 {width: 75%;}#mega-menu-wrap-menu-1 #mega-menu-menu-1 li.mega-menu-megamenu > ul.mega-sub-menu > li.mega-menu-row > ul.mega-sub-menu > li.mega-menu-columns-4-of-4 {width: 100%;}#mega-menu-wrap-menu-1 #mega-menu-menu-1 li.mega-menu-megamenu > ul.mega-sub-menu > li.mega-menu-row > ul.mega-sub-menu > li.mega-menu-columns-1-of-5 {width: 20%;}#mega-menu-wrap-menu-1 #mega-menu-menu-1 li.mega-menu-megamenu > ul.mega-sub-menu > li.mega-menu-row > ul.mega-sub-menu > li.mega-menu-columns-2-of-5 {width: 40%;}#mega-menu-wrap-menu-1 #mega-menu-menu-1 li.mega-menu-megamenu > ul.mega-sub-menu > li.mega-menu-row > ul.mega-sub-menu > li.mega-menu-columns-3-of-5 {width: 60%;}#mega-menu-wrap-menu-1 #mega-menu-menu-1 li.mega-menu-megamenu > ul.mega-sub-menu > li.mega-menu-row > ul.mega-sub-menu > li.mega-menu-columns-4-of-5 {width: 80%;}#mega-menu-wrap-menu-1 #mega-menu-menu-1 li.mega-menu-megamenu > ul.mega-sub-menu > li.mega-menu-row > ul.mega-sub-menu > li.mega-menu-columns-5-of-5 {width: 100%;}#mega-menu-wrap-menu-1 #mega-menu-menu-1 li.mega-menu-megamenu > ul.mega-sub-menu > li.mega-menu-row > ul.mega-sub-menu > li.mega-menu-columns-1-of-6 {width: 16.66667%;}#mega-menu-wrap-menu-1 #mega-menu-menu-1 li.mega-menu-megamenu > ul.mega-sub-menu > li.mega-menu-row > ul.mega-sub-menu > li.mega-menu-columns-2-of-6 {width: 33.33333%;}#mega-menu-wrap-menu-1 #mega-menu-menu-1 li.mega-menu-megamenu > ul.mega-sub-menu > li.mega-menu-row > ul.mega-sub-menu > li.mega-menu-columns-3-of-6 {width: 50%;}#mega-menu-wrap-menu-1 #mega-menu-menu-1 li.mega-menu-megamenu > ul.mega-sub-menu > li.mega-menu-row > ul.mega-sub-menu > li.mega-menu-columns-4-of-6 {width: 66.66667%;}#mega-menu-wrap-menu-1 #mega-menu-menu-1 li.mega-menu-megamenu > ul.mega-sub-menu > li.mega-menu-row > ul.mega-sub-menu > li.mega-menu-columns-5-of-6 {width: 83.33333%;}#mega-menu-wrap-menu-1 #mega-menu-menu-1 li.mega-menu-megamenu > ul.mega-sub-menu > li.mega-menu-row > ul.mega-sub-menu > li.mega-menu-columns-6-of-6 {width: 100%;}#mega-menu-wrap-menu-1 #mega-menu-menu-1 li.mega-menu-megamenu > ul.mega-sub-menu > li.mega-menu-row > ul.mega-sub-menu > li.mega-menu-columns-1-of-7 {width: 14.28571%;}#mega-menu-wrap-menu-1 #mega-menu-menu-1 li.mega-menu-megamenu > ul.mega-sub-menu > li.mega-menu-row > ul.mega-sub-menu > li.mega-menu-columns-2-of-7 {width: 28.57143%;}#mega-menu-wrap-menu-1 #mega-menu-menu-1 li.mega-menu-megamenu > ul.mega-sub-menu > li.mega-menu-row > ul.mega-sub-menu > li.mega-menu-columns-3-of-7 {width: 42.85714%;}#mega-menu-wrap-menu-1 #mega-menu-menu-1 li.mega-menu-megamenu > ul.mega-sub-menu > li.mega-menu-row > ul.mega-sub-menu > li.mega-menu-columns-4-of-7 {width: 57.14286%;}#mega-menu-wrap-menu-1 #mega-menu-menu-1 li.mega-menu-megamenu > ul.mega-sub-menu > li.mega-menu-row > ul.mega-sub-menu > li.mega-menu-columns-5-of-7 {width: 71.42857%;}#mega-menu-wrap-menu-1 #mega-menu-menu-1 li.mega-menu-megamenu > ul.mega-sub-menu > li.mega-menu-row > ul.mega-sub-menu > li.mega-menu-columns-6-of-7 {width: 85.71429%;}#mega-menu-wrap-menu-1 #mega-menu-menu-1 li.mega-menu-megamenu > ul.mega-sub-menu > li.mega-menu-row > ul.mega-sub-menu > li.mega-menu-columns-7-of-7 {width: 100%;}#mega-menu-wrap-menu-1 #mega-menu-menu-1 li.mega-menu-megamenu > ul.mega-sub-menu > li.mega-menu-row > ul.mega-sub-menu > li.mega-menu-columns-1-of-8 {width: 12.5%;}#mega-menu-wrap-menu-1 #mega-menu-menu-1 li.mega-menu-megamenu > ul.mega-sub-menu > li.mega-menu-row > ul.mega-sub-menu > li.mega-menu-columns-2-of-8 {width: 25%;}#mega-menu-wrap-menu-1 #mega-menu-menu-1 li.mega-menu-megamenu > ul.mega-sub-menu > li.mega-menu-row > ul.mega-sub-menu > li.mega-menu-columns-3-of-8 {width: 37.5%;}#mega-menu-wrap-menu-1 #mega-menu-menu-1 li.mega-menu-megamenu > ul.mega-sub-menu > li.mega-menu-row > ul.mega-sub-menu > li.mega-menu-columns-4-of-8 {width: 50%;}#mega-menu-wrap-menu-1 #mega-menu-menu-1 li.mega-menu-megamenu > ul.mega-sub-menu > li.mega-menu-row > ul.mega-sub-menu > li.mega-menu-columns-5-of-8 {width: 62.5%;}#mega-menu-wrap-menu-1 #mega-menu-menu-1 li.mega-menu-megamenu > ul.mega-sub-menu > li.mega-menu-row > ul.mega-sub-menu > li.mega-menu-columns-6-of-8 {width: 75%;}#mega-menu-wrap-menu-1 #mega-menu-menu-1 li.mega-menu-megamenu > ul.mega-sub-menu > li.mega-menu-row > ul.mega-sub-menu > li.mega-menu-columns-7-of-8 {width: 87.5%;}#mega-menu-wrap-menu-1 #mega-menu-menu-1 li.mega-menu-megamenu > ul.mega-sub-menu > li.mega-menu-row > ul.mega-sub-menu > li.mega-menu-columns-8-of-8 {width: 100%;}#mega-menu-wrap-menu-1 #mega-menu-menu-1 li.mega-menu-megamenu > ul.mega-sub-menu > li.mega-menu-row > ul.mega-sub-menu > li.mega-menu-columns-1-of-9 {width: 11.11111%;}#mega-menu-wrap-menu-1 #mega-menu-menu-1 li.mega-menu-megamenu > ul.mega-sub-menu > li.mega-menu-row > ul.mega-sub-menu > li.mega-menu-columns-2-of-9 {width: 22.22222%;}#mega-menu-wrap-menu-1 #mega-menu-menu-1 li.mega-menu-megamenu > ul.mega-sub-menu > li.mega-menu-row > ul.mega-sub-menu > li.mega-menu-columns-3-of-9 {width: 33.33333%;}#mega-menu-wrap-menu-1 #mega-menu-menu-1 li.mega-menu-megamenu > ul.mega-sub-menu > li.mega-menu-row > ul.mega-sub-menu > li.mega-menu-columns-4-of-9 {width: 44.44444%;}#mega-menu-wrap-menu-1 #mega-menu-menu-1 li.mega-menu-megamenu > ul.mega-sub-menu > li.mega-menu-row > ul.mega-sub-menu > li.mega-menu-columns-5-of-9 {width: 55.55556%;}#mega-menu-wrap-menu-1 #mega-menu-menu-1 li.mega-menu-megamenu > ul.mega-sub-menu > li.mega-menu-row > ul.mega-sub-menu > li.mega-menu-columns-6-of-9 {width: 66.66667%;}#mega-menu-wrap-menu-1 #mega-menu-menu-1 li.mega-menu-megamenu > ul.mega-sub-menu > li.mega-menu-row > ul.mega-sub-menu > li.mega-menu-columns-7-of-9 {width: 77.77778%;}#mega-menu-wrap-menu-1 #mega-menu-menu-1 li.mega-menu-megamenu > ul.mega-sub-menu > li.mega-menu-row > ul.mega-sub-menu > li.mega-menu-columns-8-of-9 {width: 88.88889%;}#mega-menu-wrap-menu-1 #mega-menu-menu-1 li.mega-menu-megamenu > ul.mega-sub-menu > li.mega-menu-row > ul.mega-sub-menu > li.mega-menu-columns-9-of-9 {width: 100%;}#mega-menu-wrap-menu-1 #mega-menu-menu-1 li.mega-menu-megamenu > ul.mega-sub-menu > li.mega-menu-row > ul.mega-sub-menu > li.mega-menu-columns-1-of-10 {width: 10%;}#mega-menu-wrap-menu-1 #mega-menu-menu-1 li.mega-menu-megamenu > ul.mega-sub-menu > li.mega-menu-row > ul.mega-sub-menu > li.mega-menu-columns-2-of-10 {width: 20%;}#mega-menu-wrap-menu-1 #mega-menu-menu-1 li.mega-menu-megamenu > ul.mega-sub-menu > li.mega-menu-row > ul.mega-sub-menu > li.mega-menu-columns-3-of-10 {width: 30%;}#mega-menu-wrap-menu-1 #mega-menu-menu-1 li.mega-menu-megamenu > ul.mega-sub-menu > li.mega-menu-row > ul.mega-sub-menu > li.mega-menu-columns-4-of-10 {width: 40%;}#mega-menu-wrap-menu-1 #mega-menu-menu-1 li.mega-menu-megamenu > ul.mega-sub-menu > li.mega-menu-row > ul.mega-sub-menu > li.mega-menu-columns-5-of-10 {width: 50%;}#mega-menu-wrap-menu-1 #mega-menu-menu-1 li.mega-menu-megamenu > ul.mega-sub-menu > li.mega-menu-row > ul.mega-sub-menu > li.mega-menu-columns-6-of-10 {width: 60%;}#mega-menu-wrap-menu-1 #mega-menu-menu-1 li.mega-menu-megamenu > ul.mega-sub-menu > li.mega-menu-row > ul.mega-sub-menu > li.mega-menu-columns-7-of-10 {width: 70%;}#mega-menu-wrap-menu-1 #mega-menu-menu-1 li.mega-menu-megamenu > ul.mega-sub-menu > li.mega-menu-row > ul.mega-sub-menu > li.mega-menu-columns-8-of-10 {width: 80%;}#mega-menu-wrap-menu-1 #mega-menu-menu-1 li.mega-menu-megamenu > ul.mega-sub-menu > li.mega-menu-row > ul.mega-sub-menu > li.mega-menu-columns-9-of-10 {width: 90%;}#mega-menu-wrap-menu-1 #mega-menu-menu-1 li.mega-menu-megamenu > ul.mega-sub-menu > li.mega-menu-row > ul.mega-sub-menu > li.mega-menu-columns-10-of-10 {width: 100%;}#mega-menu-wrap-menu-1 #mega-menu-menu-1 li.mega-menu-megamenu > ul.mega-sub-menu > li.mega-menu-row > ul.mega-sub-menu > li.mega-menu-columns-1-of-11 {width: 9.09091%;}#mega-menu-wrap-menu-1 #mega-menu-menu-1 li.mega-menu-megamenu > ul.mega-sub-menu > li.mega-menu-row > ul.mega-sub-menu > li.mega-menu-columns-2-of-11 {width: 18.18182%;}#mega-menu-wrap-menu-1 #mega-menu-menu-1 li.mega-menu-megamenu > ul.mega-sub-menu > li.mega-menu-row > ul.mega-sub-menu > li.mega-menu-columns-3-of-11 {width: 27.27273%;}#mega-menu-wrap-menu-1 #mega-menu-menu-1 li.mega-menu-megamenu > ul.mega-sub-menu > li.mega-menu-row > ul.mega-sub-menu > li.mega-menu-columns-4-of-11 {width: 36.36364%;}#mega-menu-wrap-menu-1 #mega-menu-menu-1 li.mega-menu-megamenu > ul.mega-sub-menu > li.mega-menu-row > ul.mega-sub-menu > li.mega-menu-columns-5-of-11 {width: 45.45455%;}#mega-menu-wrap-menu-1 #mega-menu-menu-1 li.mega-menu-megamenu > ul.mega-sub-menu > li.mega-menu-row > ul.mega-sub-menu > li.mega-menu-columns-6-of-11 {width: 54.54545%;}#mega-menu-wrap-menu-1 #mega-menu-menu-1 li.mega-menu-megamenu > ul.mega-sub-menu > li.mega-menu-row > ul.mega-sub-menu > li.mega-menu-columns-7-of-11 {width: 63.63636%;}#mega-menu-wrap-menu-1 #mega-menu-menu-1 li.mega-menu-megamenu > ul.mega-sub-menu > li.mega-menu-row > ul.mega-sub-menu > li.mega-menu-columns-8-of-11 {width: 72.72727%;}#mega-menu-wrap-menu-1 #mega-menu-menu-1 li.mega-menu-megamenu > ul.mega-sub-menu > li.mega-menu-row > ul.mega-sub-menu > li.mega-menu-columns-9-of-11 {width: 81.81818%;}#mega-menu-wrap-menu-1 #mega-menu-menu-1 li.mega-menu-megamenu > ul.mega-sub-menu > li.mega-menu-row > ul.mega-sub-menu > li.mega-menu-columns-10-of-11 {width: 90.90909%;}#mega-menu-wrap-menu-1 #mega-menu-menu-1 li.mega-menu-megamenu > ul.mega-sub-menu > li.mega-menu-row > ul.mega-sub-menu > li.mega-menu-columns-11-of-11 {width: 100%;}#mega-menu-wrap-menu-1 #mega-menu-menu-1 li.mega-menu-megamenu > ul.mega-sub-menu > li.mega-menu-row > ul.mega-sub-menu > li.mega-menu-columns-1-of-12 {width: 8.33333%;}#mega-menu-wrap-menu-1 #mega-menu-menu-1 li.mega-menu-megamenu > ul.mega-sub-menu > li.mega-menu-row > ul.mega-sub-menu > li.mega-menu-columns-2-of-12 {width: 16.66667%;}#mega-menu-wrap-menu-1 #mega-menu-menu-1 li.mega-menu-megamenu > ul.mega-sub-menu > li.mega-menu-row > ul.mega-sub-menu > li.mega-menu-columns-3-of-12 {width: 25%;}#mega-menu-wrap-menu-1 #mega-menu-menu-1 li.mega-menu-megamenu > ul.mega-sub-menu > li.mega-menu-row > ul.mega-sub-menu > li.mega-menu-columns-4-of-12 {width: 33.33333%;}#mega-menu-wrap-menu-1 #mega-menu-menu-1 li.mega-menu-megamenu > ul.mega-sub-menu > li.mega-menu-row > ul.mega-sub-menu > li.mega-menu-columns-5-of-12 {width: 41.66667%;}#mega-menu-wrap-menu-1 #mega-menu-menu-1 li.mega-menu-megamenu > ul.mega-sub-menu > li.mega-menu-row > ul.mega-sub-menu > li.mega-menu-columns-6-of-12 {width: 50%;}#mega-menu-wrap-menu-1 #mega-menu-menu-1 li.mega-menu-megamenu > ul.mega-sub-menu > li.mega-menu-row > ul.mega-sub-menu > li.mega-menu-columns-7-of-12 {width: 58.33333%;}#mega-menu-wrap-menu-1 #mega-menu-menu-1 li.mega-menu-megamenu > ul.mega-sub-menu > li.mega-menu-row > ul.mega-sub-menu > li.mega-menu-columns-8-of-12 {width: 66.66667%;}#mega-menu-wrap-menu-1 #mega-menu-menu-1 li.mega-menu-megamenu > ul.mega-sub-menu > li.mega-menu-row > ul.mega-sub-menu > li.mega-menu-columns-9-of-12 {width: 75%;}#mega-menu-wrap-menu-1 #mega-menu-menu-1 li.mega-menu-megamenu > ul.mega-sub-menu > li.mega-menu-row > ul.mega-sub-menu > li.mega-menu-columns-10-of-12 {width: 83.33333%;}#mega-menu-wrap-menu-1 #mega-menu-menu-1 li.mega-menu-megamenu > ul.mega-sub-menu > li.mega-menu-row > ul.mega-sub-menu > li.mega-menu-columns-11-of-12 {width: 91.66667%;}#mega-menu-wrap-menu-1 #mega-menu-menu-1 li.mega-menu-megamenu > ul.mega-sub-menu > li.mega-menu-row > ul.mega-sub-menu > li.mega-menu-columns-12-of-12 {width: 100%;}}@media only screen and (max-width: 768px) {#mega-menu-wrap-menu-1 #mega-menu-menu-1 li.mega-menu-megamenu > ul.mega-sub-menu > li.mega-menu-row > ul.mega-sub-menu > li.mega-menu-column {width: 100%;clear: both;}}#mega-menu-wrap-menu-1 #mega-menu-menu-1 li.mega-menu-megamenu > ul.mega-sub-menu > li.mega-menu-row .mega-menu-column > ul.mega-sub-menu > li.mega-menu-item {padding: 15px 15px 15px 15px;width: 100%;}#mega-menu-wrap-menu-1 #mega-menu-menu-1 > li.mega-menu-megamenu > ul.mega-sub-menu {z-index: 999;border-radius: 0;background: #273138;border: 0;padding: 0px 0px 0px 0px;position: absolute;width: 100%;max-width: none;left: 0;}@media only screen and (max-width: 768px) {#mega-menu-wrap-menu-1 #mega-menu-menu-1 > li.mega-menu-megamenu > ul.mega-sub-menu {float: left;position: static;width: 100%;}}@media only screen and (min-width: 769px) {#mega-menu-wrap-menu-1 #mega-menu-menu-1 > li.mega-menu-megamenu > ul.mega-sub-menu li.mega-menu-columns-1-of-1 {width: 100%;}#mega-menu-wrap-menu-1 #mega-menu-menu-1 > li.mega-menu-megamenu > ul.mega-sub-menu li.mega-menu-columns-1-of-2 {width: 50%;}#mega-menu-wrap-menu-1 #mega-menu-menu-1 > li.mega-menu-megamenu > ul.mega-sub-menu li.mega-menu-columns-2-of-2 {width: 100%;}#mega-menu-wrap-menu-1 #mega-menu-menu-1 > li.mega-menu-megamenu > ul.mega-sub-menu li.mega-menu-columns-1-of-3 {width: 33.33333%;}#mega-menu-wrap-menu-1 #mega-menu-menu-1 > li.mega-menu-megamenu > ul.mega-sub-menu li.mega-menu-columns-2-of-3 {width: 66.66667%;}#mega-menu-wrap-menu-1 #mega-menu-menu-1 > li.mega-menu-megamenu > ul.mega-sub-menu li.mega-menu-columns-3-of-3 {width: 100%;}#mega-menu-wrap-menu-1 #mega-menu-menu-1 > li.mega-menu-megamenu > ul.mega-sub-menu li.mega-menu-columns-1-of-4 {width: 25%;}#mega-menu-wrap-menu-1 #mega-menu-menu-1 > li.mega-menu-megamenu > ul.mega-sub-menu li.mega-menu-columns-2-of-4 {width: 50%;}#mega-menu-wrap-menu-1 #mega-menu-menu-1 > li.mega-menu-megamenu > ul.mega-sub-menu li.mega-menu-columns-3-of-4 {width: 75%;}#mega-menu-wrap-menu-1 #mega-menu-menu-1 > li.mega-menu-megamenu > ul.mega-sub-menu li.mega-menu-columns-4-of-4 {width: 100%;}#mega-menu-wrap-menu-1 #mega-menu-menu-1 > li.mega-menu-megamenu > ul.mega-sub-menu li.mega-menu-columns-1-of-5 {width: 20%;}#mega-menu-wrap-menu-1 #mega-menu-menu-1 > li.mega-menu-megamenu > ul.mega-sub-menu li.mega-menu-columns-2-of-5 {width: 40%;}#mega-menu-wrap-menu-1 #mega-menu-menu-1 > li.mega-menu-megamenu > ul.mega-sub-menu li.mega-menu-columns-3-of-5 {width: 60%;}#mega-menu-wrap-menu-1 #mega-menu-menu-1 > li.mega-menu-megamenu > ul.mega-sub-menu li.mega-menu-columns-4-of-5 {width: 80%;}#mega-menu-wrap-menu-1 #mega-menu-menu-1 > li.mega-menu-megamenu > ul.mega-sub-menu li.mega-menu-columns-5-of-5 {width: 100%;}#mega-menu-wrap-menu-1 #mega-menu-menu-1 > li.mega-menu-megamenu > ul.mega-sub-menu li.mega-menu-columns-1-of-6 {width: 16.66667%;}#mega-menu-wrap-menu-1 #mega-menu-menu-1 > li.mega-menu-megamenu > ul.mega-sub-menu li.mega-menu-columns-2-of-6 {width: 33.33333%;}#mega-menu-wrap-menu-1 #mega-menu-menu-1 > li.mega-menu-megamenu > ul.mega-sub-menu li.mega-menu-columns-3-of-6 {width: 50%;}#mega-menu-wrap-menu-1 #mega-menu-menu-1 > li.mega-menu-megamenu > ul.mega-sub-menu li.mega-menu-columns-4-of-6 {width: 66.66667%;}#mega-menu-wrap-menu-1 #mega-menu-menu-1 > li.mega-menu-megamenu > ul.mega-sub-menu li.mega-menu-columns-5-of-6 {width: 83.33333%;}#mega-menu-wrap-menu-1 #mega-menu-menu-1 > li.mega-menu-megamenu > ul.mega-sub-menu li.mega-menu-columns-6-of-6 {width: 100%;}#mega-menu-wrap-menu-1 #mega-menu-menu-1 > li.mega-menu-megamenu > ul.mega-sub-menu li.mega-menu-columns-1-of-7 {width: 14.28571%;}#mega-menu-wrap-menu-1 #mega-menu-menu-1 > li.mega-menu-megamenu > ul.mega-sub-menu li.mega-menu-columns-2-of-7 {width: 28.57143%;}#mega-menu-wrap-menu-1 #mega-menu-menu-1 > li.mega-menu-megamenu > ul.mega-sub-menu li.mega-menu-columns-3-of-7 {width: 42.85714%;}#mega-menu-wrap-menu-1 #mega-menu-menu-1 > li.mega-menu-megamenu > ul.mega-sub-menu li.mega-menu-columns-4-of-7 {width: 57.14286%;}#mega-menu-wrap-menu-1 #mega-menu-menu-1 > li.mega-menu-megamenu > ul.mega-sub-menu li.mega-menu-columns-5-of-7 {width: 71.42857%;}#mega-menu-wrap-menu-1 #mega-menu-menu-1 > li.mega-menu-megamenu > ul.mega-sub-menu li.mega-menu-columns-6-of-7 {width: 85.71429%;}#mega-menu-wrap-menu-1 #mega-menu-menu-1 > li.mega-menu-megamenu > ul.mega-sub-menu li.mega-menu-columns-7-of-7 {width: 100%;}#mega-menu-wrap-menu-1 #mega-menu-menu-1 > li.mega-menu-megamenu > ul.mega-sub-menu li.mega-menu-columns-1-of-8 {width: 12.5%;}#mega-menu-wrap-menu-1 #mega-menu-menu-1 > li.mega-menu-megamenu > ul.mega-sub-menu li.mega-menu-columns-2-of-8 {width: 25%;}#mega-menu-wrap-menu-1 #mega-menu-menu-1 > li.mega-menu-megamenu > ul.mega-sub-menu li.mega-menu-columns-3-of-8 {width: 37.5%;}#mega-menu-wrap-menu-1 #mega-menu-menu-1 > li.mega-menu-megamenu > ul.mega-sub-menu li.mega-menu-columns-4-of-8 {width: 50%;}#mega-menu-wrap-menu-1 #mega-menu-menu-1 > li.mega-menu-megamenu > ul.mega-sub-menu li.mega-menu-columns-5-of-8 {width: 62.5%;}#mega-menu-wrap-menu-1 #mega-menu-menu-1 > li.mega-menu-megamenu > ul.mega-sub-menu li.mega-menu-columns-6-of-8 {width: 75%;}#mega-menu-wrap-menu-1 #mega-menu-menu-1 > li.mega-menu-megamenu > ul.mega-sub-menu li.mega-menu-columns-7-of-8 {width: 87.5%;}#mega-menu-wrap-menu-1 #mega-menu-menu-1 > li.mega-menu-megamenu > ul.mega-sub-menu li.mega-menu-columns-8-of-8 {width: 100%;}#mega-menu-wrap-menu-1 #mega-menu-menu-1 > li.mega-menu-megamenu > ul.mega-sub-menu li.mega-menu-columns-1-of-9 {width: 11.11111%;}#mega-menu-wrap-menu-1 #mega-menu-menu-1 > li.mega-menu-megamenu > ul.mega-sub-menu li.mega-menu-columns-2-of-9 {width: 22.22222%;}#mega-menu-wrap-menu-1 #mega-menu-menu-1 > li.mega-menu-megamenu > ul.mega-sub-menu li.mega-menu-columns-3-of-9 {width: 33.33333%;}#mega-menu-wrap-menu-1 #mega-menu-menu-1 > li.mega-menu-megamenu > ul.mega-sub-menu li.mega-menu-columns-4-of-9 {width: 44.44444%;}#mega-menu-wrap-menu-1 #mega-menu-menu-1 > li.mega-menu-megamenu > ul.mega-sub-menu li.mega-menu-columns-5-of-9 {width: 55.55556%;}#mega-menu-wrap-menu-1 #mega-menu-menu-1 > li.mega-menu-megamenu > ul.mega-sub-menu li.mega-menu-columns-6-of-9 {width: 66.66667%;}#mega-menu-wrap-menu-1 #mega-menu-menu-1 > li.mega-menu-megamenu > ul.mega-sub-menu li.mega-menu-columns-7-of-9 {width: 77.77778%;}#mega-menu-wrap-menu-1 #mega-menu-menu-1 > li.mega-menu-megamenu > ul.mega-sub-menu li.mega-menu-columns-8-of-9 {width: 88.88889%;}#mega-menu-wrap-menu-1 #mega-menu-menu-1 > li.mega-menu-megamenu > ul.mega-sub-menu li.mega-menu-columns-9-of-9 {width: 100%;}#mega-menu-wrap-menu-1 #mega-menu-menu-1 > li.mega-menu-megamenu > ul.mega-sub-menu li.mega-menu-columns-1-of-10 {width: 10%;}#mega-menu-wrap-menu-1 #mega-menu-menu-1 > li.mega-menu-megamenu > ul.mega-sub-menu li.mega-menu-columns-2-of-10 {width: 20%;}#mega-menu-wrap-menu-1 #mega-menu-menu-1 > li.mega-menu-megamenu > ul.mega-sub-menu li.mega-menu-columns-3-of-10 {width: 30%;}#mega-menu-wrap-menu-1 #mega-menu-menu-1 > li.mega-menu-megamenu > ul.mega-sub-menu li.mega-menu-columns-4-of-10 {width: 40%;}#mega-menu-wrap-menu-1 #mega-menu-menu-1 > li.mega-menu-megamenu > ul.mega-sub-menu li.mega-menu-columns-5-of-10 {width: 50%;}#mega-menu-wrap-menu-1 #mega-menu-menu-1 > li.mega-menu-megamenu > ul.mega-sub-menu li.mega-menu-columns-6-of-10 {width: 60%;}#mega-menu-wrap-menu-1 #mega-menu-menu-1 > li.mega-menu-megamenu > ul.mega-sub-menu li.mega-menu-columns-7-of-10 {width: 70%;}#mega-menu-wrap-menu-1 #mega-menu-menu-1 > li.mega-menu-megamenu > ul.mega-sub-menu li.mega-menu-columns-8-of-10 {width: 80%;}#mega-menu-wrap-menu-1 #mega-menu-menu-1 > li.mega-menu-megamenu > ul.mega-sub-menu li.mega-menu-columns-9-of-10 {width: 90%;}#mega-menu-wrap-menu-1 #mega-menu-menu-1 > li.mega-menu-megamenu > ul.mega-sub-menu li.mega-menu-columns-10-of-10 {width: 100%;}#mega-menu-wrap-menu-1 #mega-menu-menu-1 > li.mega-menu-megamenu > ul.mega-sub-menu li.mega-menu-columns-1-of-11 {width: 9.09091%;}#mega-menu-wrap-menu-1 #mega-menu-menu-1 > li.mega-menu-megamenu > ul.mega-sub-menu li.mega-menu-columns-2-of-11 {width: 18.18182%;}#mega-menu-wrap-menu-1 #mega-menu-menu-1 > li.mega-menu-megamenu > ul.mega-sub-menu li.mega-menu-columns-3-of-11 {width: 27.27273%;}#mega-menu-wrap-menu-1 #mega-menu-menu-1 > li.mega-menu-megamenu > ul.mega-sub-menu li.mega-menu-columns-4-of-11 {width: 36.36364%;}#mega-menu-wrap-menu-1 #mega-menu-menu-1 > li.mega-menu-megamenu > ul.mega-sub-menu li.mega-menu-columns-5-of-11 {width: 45.45455%;}#mega-menu-wrap-menu-1 #mega-menu-menu-1 > li.mega-menu-megamenu > ul.mega-sub-menu li.mega-menu-columns-6-of-11 {width: 54.54545%;}#mega-menu-wrap-menu-1 #mega-menu-menu-1 > li.mega-menu-megamenu > ul.mega-sub-menu li.mega-menu-columns-7-of-11 {width: 63.63636%;}#mega-menu-wrap-menu-1 #mega-menu-menu-1 > li.mega-menu-megamenu > ul.mega-sub-menu li.mega-menu-columns-8-of-11 {width: 72.72727%;}#mega-menu-wrap-menu-1 #mega-menu-menu-1 > li.mega-menu-megamenu > ul.mega-sub-menu li.mega-menu-columns-9-of-11 {width: 81.81818%;}#mega-menu-wrap-menu-1 #mega-menu-menu-1 > li.mega-menu-megamenu > ul.mega-sub-menu li.mega-menu-columns-10-of-11 {width: 90.90909%;}#mega-menu-wrap-menu-1 #mega-menu-menu-1 > li.mega-menu-megamenu > ul.mega-sub-menu li.mega-menu-columns-11-of-11 {width: 100%;}#mega-menu-wrap-menu-1 #mega-menu-menu-1 > li.mega-menu-megamenu > ul.mega-sub-menu li.mega-menu-columns-1-of-12 {width: 8.33333%;}#mega-menu-wrap-menu-1 #mega-menu-menu-1 > li.mega-menu-megamenu > ul.mega-sub-menu li.mega-menu-columns-2-of-12 {width: 16.66667%;}#mega-menu-wrap-menu-1 #mega-menu-menu-1 > li.mega-menu-megamenu > ul.mega-sub-menu li.mega-menu-columns-3-of-12 {width: 25%;}#mega-menu-wrap-menu-1 #mega-menu-menu-1 > li.mega-menu-megamenu > ul.mega-sub-menu li.mega-menu-columns-4-of-12 {width: 33.33333%;}#mega-menu-wrap-menu-1 #mega-menu-menu-1 > li.mega-menu-megamenu > ul.mega-sub-menu li.mega-menu-columns-5-of-12 {width: 41.66667%;}#mega-menu-wrap-menu-1 #mega-menu-menu-1 > li.mega-menu-megamenu > ul.mega-sub-menu li.mega-menu-columns-6-of-12 {width: 50%;}#mega-menu-wrap-menu-1 #mega-menu-menu-1 > li.mega-menu-megamenu > ul.mega-sub-menu li.mega-menu-columns-7-of-12 {width: 58.33333%;}#mega-menu-wrap-menu-1 #mega-menu-menu-1 > li.mega-menu-megamenu > ul.mega-sub-menu li.mega-menu-columns-8-of-12 {width: 66.66667%;}#mega-menu-wrap-menu-1 #mega-menu-menu-1 > li.mega-menu-megamenu > ul.mega-sub-menu li.mega-menu-columns-9-of-12 {width: 75%;}#mega-menu-wrap-menu-1 #mega-menu-menu-1 > li.mega-menu-megamenu > ul.mega-sub-menu li.mega-menu-columns-10-of-12 {width: 83.33333%;}#mega-menu-wrap-menu-1 #mega-menu-menu-1 > li.mega-menu-megamenu > ul.mega-sub-menu li.mega-menu-columns-11-of-12 {width: 91.66667%;}#mega-menu-wrap-menu-1 #mega-menu-menu-1 > li.mega-menu-megamenu > ul.mega-sub-menu li.mega-menu-columns-12-of-12 {width: 100%;}}#mega-menu-wrap-menu-1 #mega-menu-menu-1 > li.mega-menu-megamenu > ul.mega-sub-menu .mega-description-group .mega-menu-description {margin: 5px 0;}#mega-menu-wrap-menu-1 #mega-menu-menu-1 > li.mega-menu-megamenu > ul.mega-sub-menu > li.mega-menu-item ul.mega-sub-menu {clear: both;}#mega-menu-wrap-menu-1 #mega-menu-menu-1 > li.mega-menu-megamenu > ul.mega-sub-menu > li.mega-menu-item ul.mega-sub-menu li.mega-menu-item ul.mega-sub-menu {margin-left: 10px;}#mega-menu-wrap-menu-1 #mega-menu-menu-1 > li.mega-menu-megamenu > ul.mega-sub-menu li.mega-menu-column > ul.mega-sub-menu ul.mega-sub-menu ul.mega-sub-menu {margin-left: 10px;}#mega-menu-wrap-menu-1 #mega-menu-menu-1 > li.mega-menu-megamenu > ul.mega-sub-menu > li.mega-menu-item, #mega-menu-wrap-menu-1 #mega-menu-menu-1 > li.mega-menu-megamenu > ul.mega-sub-menu li.mega-menu-column > ul.mega-sub-menu > li.mega-menu-item {color: #00bfff;font-family: inherit;font-size: 14px;display: block;float: left;clear: none;padding: 15px 15px 15px 15px;vertical-align: top;}#mega-menu-wrap-menu-1 #mega-menu-menu-1 > li.mega-menu-megamenu > ul.mega-sub-menu > li.mega-menu-item.mega-menu-clear, #mega-menu-wrap-menu-1 #mega-menu-menu-1 > li.mega-menu-megamenu > ul.mega-sub-menu li.mega-menu-column > ul.mega-sub-menu > li.mega-menu-item.mega-menu-clear {clear: left;}#mega-menu-wrap-menu-1 #mega-menu-menu-1 > li.mega-menu-megamenu > ul.mega-sub-menu > li.mega-menu-item h4.mega-block-title, #mega-menu-wrap-menu-1 #mega-menu-menu-1 > li.mega-menu-megamenu > ul.mega-sub-menu li.mega-menu-column > ul.mega-sub-menu > li.mega-menu-item h4.mega-block-title {color: #00bfff;font-family: inherit;font-size: 16px;text-transform: uppercase;text-decoration: none;font-weight: bold;text-align: left;margin: 0px 0px 0px 0px;padding: 0px 0px 5px 0px;vertical-align: top;display: block;visibility: inherit;border: 0;}#mega-menu-wrap-menu-1 #mega-menu-menu-1 > li.mega-menu-megamenu > ul.mega-sub-menu > li.mega-menu-item h4.mega-block-title:hover, #mega-menu-wrap-menu-1 #mega-menu-menu-1 > li.mega-menu-megamenu > ul.mega-sub-menu li.mega-menu-column > ul.mega-sub-menu > li.mega-menu-item h4.mega-block-title:hover {border-color: rgba(0, 0, 0, 0);}#mega-menu-wrap-menu-1 #mega-menu-menu-1 > li.mega-menu-megamenu > ul.mega-sub-menu > li.mega-menu-item > a.mega-menu-link, #mega-menu-wrap-menu-1 #mega-menu-menu-1 > li.mega-menu-megamenu > ul.mega-sub-menu li.mega-menu-column > ul.mega-sub-menu > li.mega-menu-item > a.mega-menu-link {/* Mega Menu > Menu Themes > Mega Menus > Second Level Menu Items */color: #00bfff;font-family: inherit;font-size: 16px;text-transform: uppercase;text-decoration: none;font-weight: bold;text-align: left;margin: 0px 0px 0px 0px;padding: 0px 0px 0px 0px;vertical-align: top;display: block;border: 0;}#mega-menu-wrap-menu-1 #mega-menu-menu-1 > li.mega-menu-megamenu > ul.mega-sub-menu > li.mega-menu-item > a.mega-menu-link:hover, #mega-menu-wrap-menu-1 #mega-menu-menu-1 > li.mega-menu-megamenu > ul.mega-sub-menu li.mega-menu-column > ul.mega-sub-menu > li.mega-menu-item > a.mega-menu-link:hover {border-color: rgba(0, 0, 0, 0);}#mega-menu-wrap-menu-1 #mega-menu-menu-1 > li.mega-menu-megamenu > ul.mega-sub-menu > li.mega-menu-item > a.mega-menu-link:hover, #mega-menu-wrap-menu-1 #mega-menu-menu-1 > li.mega-menu-megamenu > ul.mega-sub-menu li.mega-menu-column > ul.mega-sub-menu > li.mega-menu-item > a.mega-menu-link:hover, #mega-menu-wrap-menu-1 #mega-menu-menu-1 > li.mega-menu-megamenu > ul.mega-sub-menu > li.mega-menu-item > a.mega-menu-link:focus, #mega-menu-wrap-menu-1 #mega-menu-menu-1 > li.mega-menu-megamenu > ul.mega-sub-menu li.mega-menu-column > ul.mega-sub-menu > li.mega-menu-item > a.mega-menu-link:focus {/* Mega Menu > Menu Themes > Mega Menus > Second Level Menu Items (Hover) */color: #00bfff;font-weight: bold;text-decoration: none;background: rgba(0, 0, 0, 0);}#mega-menu-wrap-menu-1 #mega-menu-menu-1 > li.mega-menu-megamenu > ul.mega-sub-menu > li.mega-menu-item > a.mega-menu-link:hover > span.mega-title-below, #mega-menu-wrap-menu-1 #mega-menu-menu-1 > li.mega-menu-megamenu > ul.mega-sub-menu li.mega-menu-column > ul.mega-sub-menu > li.mega-menu-item > a.mega-menu-link:hover > span.mega-title-below, #mega-menu-wrap-menu-1 #mega-menu-menu-1 > li.mega-menu-megamenu > ul.mega-sub-menu > li.mega-menu-item > a.mega-menu-link:focus > span.mega-title-below, #mega-menu-wrap-menu-1 #mega-menu-menu-1 > li.mega-menu-megamenu > ul.mega-sub-menu li.mega-menu-column > ul.mega-sub-menu > li.mega-menu-item > a.mega-menu-link:focus > span.mega-title-below {text-decoration: none;}#mega-menu-wrap-menu-1 #mega-menu-menu-1 > li.mega-menu-megamenu > ul.mega-sub-menu > li.mega-menu-item li.mega-menu-item > a.mega-menu-link, #mega-menu-wrap-menu-1 #mega-menu-menu-1 > li.mega-menu-megamenu > ul.mega-sub-menu li.mega-menu-column > ul.mega-sub-menu > li.mega-menu-item li.mega-menu-item > a.mega-menu-link {/* Mega Menu > Menu Themes > Mega Menus > Third Level Menu Items */color: #666;font-family: inherit;font-size: 14px;text-transform: none;text-decoration: none;font-weight: normal;text-align: left;margin: 0px 0px 0px 0px;padding: 0px 0px 0px 0px;vertical-align: top;display: block;border: 0;}#mega-menu-wrap-menu-1 #mega-menu-menu-1 > li.mega-menu-megamenu > ul.mega-sub-menu > li.mega-menu-item li.mega-menu-item > a.mega-menu-link:hover, #mega-menu-wrap-menu-1 #mega-menu-menu-1 > li.mega-menu-megamenu > ul.mega-sub-menu li.mega-menu-column > ul.mega-sub-menu > li.mega-menu-item li.mega-menu-item > a.mega-menu-link:hover {border-color: rgba(0, 0, 0, 0);}#mega-menu-wrap-menu-1 #mega-menu-menu-1 > li.mega-menu-megamenu > ul.mega-sub-menu > li.mega-menu-item li.mega-menu-item.mega-icon-left.mega-has-description.mega-has-icon > a.mega-menu-link, #mega-menu-wrap-menu-1 #mega-menu-menu-1 > li.mega-menu-megamenu > ul.mega-sub-menu li.mega-menu-column > ul.mega-sub-menu > li.mega-menu-item li.mega-menu-item.mega-icon-left.mega-has-description.mega-has-icon > a.mega-menu-link {display: flex;}#mega-menu-wrap-menu-1 #mega-menu-menu-1 > li.mega-menu-megamenu > ul.mega-sub-menu > li.mega-menu-item li.mega-menu-item > a.mega-menu-link:hover, #mega-menu-wrap-menu-1 #mega-menu-menu-1 > li.mega-menu-megamenu > ul.mega-sub-menu li.mega-menu-column > ul.mega-sub-menu > li.mega-menu-item li.mega-menu-item > a.mega-menu-link:hover, #mega-menu-wrap-menu-1 #mega-menu-menu-1 > li.mega-menu-megamenu > ul.mega-sub-menu > li.mega-menu-item li.mega-menu-item > a.mega-menu-link:focus, #mega-menu-wrap-menu-1 #mega-menu-menu-1 > li.mega-menu-megamenu > ul.mega-sub-menu li.mega-menu-column > ul.mega-sub-menu > li.mega-menu-item li.mega-menu-item > a.mega-menu-link:focus {/* Mega Menu > Menu Themes > Mega Menus > Third Level Menu Items (Hover) */color: #666;font-weight: normal;text-decoration: none;background: rgba(0, 0, 0, 0);}@media only screen and (max-width: 768px) {#mega-menu-wrap-menu-1 #mega-menu-menu-1 > li.mega-menu-megamenu > ul.mega-sub-menu {border: 0;padding: 10px;border-radius: 0;}#mega-menu-wrap-menu-1 #mega-menu-menu-1 > li.mega-menu-megamenu > ul.mega-sub-menu > li.mega-menu-item {width: 100%;clear: both;}}#mega-menu-wrap-menu-1 #mega-menu-menu-1 > li.mega-menu-megamenu.mega-no-headers > ul.mega-sub-menu > li.mega-menu-item > a.mega-menu-link, #mega-menu-wrap-menu-1 #mega-menu-menu-1 > li.mega-menu-megamenu.mega-no-headers > ul.mega-sub-menu li.mega-menu-column > ul.mega-sub-menu > li.mega-menu-item > a.mega-menu-link {color: #666;font-family: inherit;font-size: 14px;text-transform: none;text-decoration: none;font-weight: normal;margin: 0;border: 0;padding: 0px 0px 0px 0px;vertical-align: top;display: block;}#mega-menu-wrap-menu-1 #mega-menu-menu-1 > li.mega-menu-megamenu.mega-no-headers > ul.mega-sub-menu > li.mega-menu-item > a.mega-menu-link:hover, #mega-menu-wrap-menu-1 #mega-menu-menu-1 > li.mega-menu-megamenu.mega-no-headers > ul.mega-sub-menu > li.mega-menu-item > a.mega-menu-link:focus, #mega-menu-wrap-menu-1 #mega-menu-menu-1 > li.mega-menu-megamenu.mega-no-headers > ul.mega-sub-menu li.mega-menu-column > ul.mega-sub-menu > li.mega-menu-item > a.mega-menu-link:hover, #mega-menu-wrap-menu-1 #mega-menu-menu-1 > li.mega-menu-megamenu.mega-no-headers > ul.mega-sub-menu li.mega-menu-column > ul.mega-sub-menu > li.mega-menu-item > a.mega-menu-link:focus {color: #666;font-weight: normal;text-decoration: none;background: rgba(0, 0, 0, 0);}#mega-menu-wrap-menu-1 #mega-menu-menu-1 > li.mega-menu-flyout ul.mega-sub-menu {z-index: 999;position: absolute;width: 250px;max-width: none;padding: 0px 0px 0px 0px;border: 0;background: #273138;border-radius: 0;}@media only screen and (max-width: 768px) {#mega-menu-wrap-menu-1 #mega-menu-menu-1 > li.mega-menu-flyout ul.mega-sub-menu {float: left;position: static;width: 100%;padding: 0;border: 0;border-radius: 0;}}@media only screen and (max-width: 768px) {#mega-menu-wrap-menu-1 #mega-menu-menu-1 > li.mega-menu-flyout ul.mega-sub-menu li.mega-menu-item {clear: both;}}#mega-menu-wrap-menu-1 #mega-menu-menu-1 > li.mega-menu-flyout ul.mega-sub-menu li.mega-menu-item a.mega-menu-link {display: block;background: #273138;color: #666;font-family: inherit;font-size: 14px;font-weight: normal;padding: 0px 10px 0px 10px;line-height: 35px;text-decoration: none;text-transform: none;vertical-align: baseline;}#mega-menu-wrap-menu-1 #mega-menu-menu-1 > li.mega-menu-flyout ul.mega-sub-menu li.mega-menu-item:first-child > a.mega-menu-link {border-top-left-radius: 0px;border-top-right-radius: 0px;}@media only screen and (max-width: 768px) {#mega-menu-wrap-menu-1 #mega-menu-menu-1 > li.mega-menu-flyout ul.mega-sub-menu li.mega-menu-item:first-child > a.mega-menu-link {border-top-left-radius: 0;border-top-right-radius: 0;}}#mega-menu-wrap-menu-1 #mega-menu-menu-1 > li.mega-menu-flyout ul.mega-sub-menu li.mega-menu-item:last-child > a.mega-menu-link {border-bottom-right-radius: 0px;border-bottom-left-radius: 0px;}@media only screen and (max-width: 768px) {#mega-menu-wrap-menu-1 #mega-menu-menu-1 > li.mega-menu-flyout ul.mega-sub-menu li.mega-menu-item:last-child > a.mega-menu-link {border-bottom-right-radius: 0;border-bottom-left-radius: 0;}}#mega-menu-wrap-menu-1 #mega-menu-menu-1 > li.mega-menu-flyout ul.mega-sub-menu li.mega-menu-item a.mega-menu-link:hover, #mega-menu-wrap-menu-1 #mega-menu-menu-1 > li.mega-menu-flyout ul.mega-sub-menu li.mega-menu-item a.mega-menu-link:focus {background: #273138;font-weight: normal;text-decoration: none;color: #666;}#mega-menu-wrap-menu-1 #mega-menu-menu-1 > li.mega-menu-flyout ul.mega-sub-menu li.mega-menu-item ul.mega-sub-menu {position: absolute;left: 100%;top: 0;}@media only screen and (max-width: 768px) {#mega-menu-wrap-menu-1 #mega-menu-menu-1 > li.mega-menu-flyout ul.mega-sub-menu li.mega-menu-item ul.mega-sub-menu {position: static;left: 0;width: 100%;}#mega-menu-wrap-menu-1 #mega-menu-menu-1 > li.mega-menu-flyout ul.mega-sub-menu li.mega-menu-item ul.mega-sub-menu a.mega-menu-link {padding-left: 20px;}#mega-menu-wrap-menu-1 #mega-menu-menu-1 > li.mega-menu-flyout ul.mega-sub-menu li.mega-menu-item ul.mega-sub-menu ul.mega-sub-menu a.mega-menu-link {padding-left: 30px;}}#mega-menu-wrap-menu-1 #mega-menu-menu-1 li.mega-menu-item-has-children > a.mega-menu-link > span.mega-indicator:after {content: '\f140';font-family: dashicons;font-weight: normal;display: inline-block;margin: 0;vertical-align: top;-webkit-font-smoothing: antialiased;-moz-osx-font-smoothing: grayscale;transform: rotate(0);color: inherit;position: relative;background: transparent;height: auto;width: auto;right: auto;line-height: inherit;}#mega-menu-wrap-menu-1 #mega-menu-menu-1 li.mega-menu-item-has-children > a.mega-menu-link > span.mega-indicator {display: inline-block;height: auto;width: auto;background: transparent;position: relative;pointer-events: auto;left: auto;min-width: auto;line-height: inherit;color: inherit;font-size: inherit;padding: 0;margin: 0 0 0 6px;}#mega-menu-wrap-menu-1 #mega-menu-menu-1 li.mega-menu-item-has-children li.mega-menu-item-has-children > a.mega-menu-link > span.mega-indicator {float: right;}#mega-menu-wrap-menu-1 #mega-menu-menu-1 li.mega-menu-item-has-children.mega-collapse-children.mega-toggle-on > a.mega-menu-link > span.mega-indicator:after {content: '\f142';}@media only screen and (max-width: 768px) {#mega-menu-wrap-menu-1 #mega-menu-menu-1 li.mega-menu-item-has-children > a.mega-menu-link > span.mega-indicator {float: right;}#mega-menu-wrap-menu-1 #mega-menu-menu-1 li.mega-menu-item-has-children.mega-toggle-on > a.mega-menu-link > span.mega-indicator:after {content: '\f142';}#mega-menu-wrap-menu-1 #mega-menu-menu-1 li.mega-menu-item-has-children.mega-hide-sub-menu-on-mobile > a.mega-menu-link > span.mega-indicator {display: none;}}#mega-menu-wrap-menu-1 #mega-menu-menu-1 li.mega-menu-megamenu:not(.mega-menu-tabbed) li.mega-menu-item-has-children:not(.mega-collapse-children) > a.mega-menu-link > span.mega-indicator, #mega-menu-wrap-menu-1 #mega-menu-menu-1 li.mega-menu-item-has-children.mega-hide-arrow > a.mega-menu-link > span.mega-indicator {display: none;}@media only screen and (min-width: 769px) {#mega-menu-wrap-menu-1 #mega-menu-menu-1 li.mega-menu-flyout li.mega-menu-item a.mega-menu-link > span.mega-indicator:after {content: '\f139';}#mega-menu-wrap-menu-1 #mega-menu-menu-1 li.mega-menu-flyout.mega-align-bottom-right li.mega-menu-item a.mega-menu-link {text-align: right;}#mega-menu-wrap-menu-1 #mega-menu-menu-1 li.mega-menu-flyout.mega-align-bottom-right li.mega-menu-item a.mega-menu-link > span.mega-indicator {float: left;}#mega-menu-wrap-menu-1 #mega-menu-menu-1 li.mega-menu-flyout.mega-align-bottom-right li.mega-menu-item a.mega-menu-link > span.mega-indicator:after {content: '\f141';margin: 0 6px 0 0;}#mega-menu-wrap-menu-1 #mega-menu-menu-1 li.mega-menu-flyout.mega-align-bottom-right li.mega-menu-item a.mega-menu-link:before {float: right;margin: 0 0 0 6px;}#mega-menu-wrap-menu-1 #mega-menu-menu-1 li.mega-menu-flyout.mega-align-bottom-right ul.mega-sub-menu li.mega-menu-item ul.mega-sub-menu {left: -100%;top: 0;}}@media only screen and (min-width: 769px) {#mega-menu-wrap-menu-1 #mega-menu-menu-1.mega-menu-accordion > li.mega-menu-item-has-children > a.mega-menu-link > span.mega-indicator {float: right;}}#mega-menu-wrap-menu-1 #mega-menu-menu-1 li[class^='mega-lang-item'] > a.mega-menu-link > img {display: inline;}#mega-menu-wrap-menu-1 #mega-menu-menu-1 a.mega-menu-link > img.wpml-ls-flag, #mega-menu-wrap-menu-1 #mega-menu-menu-1 a.mega-menu-link > img.iclflag {display: inline;margin-right: 8px;}@media only screen and (max-width: 768px) {#mega-menu-wrap-menu-1 #mega-menu-menu-1 li.mega-hide-on-mobile, #mega-menu-wrap-menu-1 #mega-menu-menu-1 > li.mega-menu-megamenu > ul.mega-sub-menu > li.mega-hide-on-mobile, #mega-menu-wrap-menu-1 #mega-menu-menu-1 > li.mega-menu-megamenu > ul.mega-sub-menu li.mega-menu-column > ul.mega-sub-menu > li.mega-menu-item.mega-hide-on-mobile {display: none;}}@media only screen and (min-width: 769px) {#mega-menu-wrap-menu-1 #mega-menu-menu-1 li.mega-hide-on-desktop, #mega-menu-wrap-menu-1 #mega-menu-menu-1 > li.mega-menu-megamenu > ul.mega-sub-menu > li.mega-hide-on-desktop, #mega-menu-wrap-menu-1 #mega-menu-menu-1 > li.mega-menu-megamenu > ul.mega-sub-menu li.mega-menu-column > ul.mega-sub-menu > li.mega-menu-item.mega-hide-on-desktop {display: none;}}@media only screen and (max-width: 768px) {#mega-menu-wrap-menu-1:after {content: "";display: table;clear: both;}}#mega-menu-wrap-menu-1 .mega-menu-toggle {display: none;z-index: 1;cursor: pointer;background: #273138;border-radius: 2px 2px 2px 2px;line-height: 40px;height: 40px;text-align: left;user-select: none;-webkit-tap-highlight-color: transparent;outline: none;white-space: nowrap;}#mega-menu-wrap-menu-1 .mega-menu-toggle img {max-width: 100%;padding: 0;}@media only screen and (max-width: 768px) {#mega-menu-wrap-menu-1 .mega-menu-toggle {display: -webkit-box;display: -ms-flexbox;display: -webkit-flex;display: flex;}}#mega-menu-wrap-menu-1 .mega-menu-toggle .mega-toggle-blocks-left, #mega-menu-wrap-menu-1 .mega-menu-toggle .mega-toggle-blocks-center, #mega-menu-wrap-menu-1 .mega-menu-toggle .mega-toggle-blocks-right {display: -webkit-box;display: -ms-flexbox;display: -webkit-flex;display: flex;-ms-flex-preferred-size: 33.33%;-webkit-flex-basis: 33.33%;flex-basis: 33.33%;}#mega-menu-wrap-menu-1 .mega-menu-toggle .mega-toggle-blocks-left {-webkit-box-flex: 1;-ms-flex: 1;-webkit-flex: 1;flex: 1;-webkit-box-pack: start;-ms-flex-pack: start;-webkit-justify-content: flex-start;justify-content: flex-start;}#mega-menu-wrap-menu-1 .mega-menu-toggle .mega-toggle-blocks-left .mega-toggle-block {margin-left: 6px;}#mega-menu-wrap-menu-1 .mega-menu-toggle .mega-toggle-blocks-left .mega-toggle-block:only-child {margin-right: 6px;}#mega-menu-wrap-menu-1 .mega-menu-toggle .mega-toggle-blocks-center {-webkit-box-pack: center;-ms-flex-pack: center;-webkit-justify-content: center;justify-content: center;}#mega-menu-wrap-menu-1 .mega-menu-toggle .mega-toggle-blocks-center .mega-toggle-block {margin-left: 3px;margin-right: 3px;}#mega-menu-wrap-menu-1 .mega-menu-toggle .mega-toggle-blocks-right {-webkit-box-flex: 1;-ms-flex: 1;-webkit-flex: 1;flex: 1;-webkit-box-pack: end;-ms-flex-pack: end;-webkit-justify-content: flex-end;justify-content: flex-end;}#mega-menu-wrap-menu-1 .mega-menu-toggle .mega-toggle-blocks-right .mega-toggle-block {margin-right: 6px;}#mega-menu-wrap-menu-1 .mega-menu-toggle .mega-toggle-blocks-right .mega-toggle-block:only-child {margin-left: 6px;}#mega-menu-wrap-menu-1 .mega-menu-toggle .mega-toggle-block {display: -webkit-box;display: -ms-flexbox;display: -webkit-flex;display: flex;height: 100%;outline: 0;-webkit-align-self: center;-ms-flex-item-align: center;align-self: center;-ms-flex-negative: 0;-webkit-flex-shrink: 0;flex-shrink: 0;}@media only screen and (max-width: 768px) {#mega-menu-wrap-menu-1 .mega-menu-toggle + #mega-menu-menu-1 {background: #273138;padding: 0px 0px 0px 0px;display: none;position: absolute;width: 100%;z-index: 9999999;}#mega-menu-wrap-menu-1 .mega-menu-toggle.mega-menu-open + #mega-menu-menu-1 {display: block;}}#mega-menu-wrap-menu-1 .mega-menu-toggle {/** Push menu onto new line **/}#mega-menu-wrap-menu-1 .mega-menu-toggle .mega-toggle-block-1 {/*! * Hamburgers * @description Tasty CSS-animated hamburgers * @author Jonathan Suh @jonsuh * @site https://jonsuh.com/hamburgers * @link https://github.com/jonsuh/hamburgers */cursor: pointer;}#mega-menu-wrap-menu-1 .mega-menu-toggle .mega-toggle-block-1 .mega-toggle-animated {padding: 0;display: -webkit-box;display: -ms-flexbox;display: -webkit-flex;display: flex;cursor: pointer;transition-property: opacity, filter;transition-duration: 0.15s;transition-timing-function: linear;font: inherit;color: inherit;text-transform: none;background-color: transparent;border: 0;margin: 0;overflow: visible;transform: scale(0.8);align-self: center;outline: 0;background: none;}#mega-menu-wrap-menu-1 .mega-menu-toggle .mega-toggle-block-1 .mega-toggle-animated-box {width: 40px;height: 24px;display: inline-block;position: relative;outline: 0;}#mega-menu-wrap-menu-1 .mega-menu-toggle .mega-toggle-block-1 .mega-toggle-animated-inner {display: block;top: 50%;margin-top: -2px;}#mega-menu-wrap-menu-1 .mega-menu-toggle .mega-toggle-block-1 .mega-toggle-animated-inner, #mega-menu-wrap-menu-1 .mega-menu-toggle .mega-toggle-block-1 .mega-toggle-animated-inner::before, #mega-menu-wrap-menu-1 .mega-menu-toggle .mega-toggle-block-1 .mega-toggle-animated-inner::after {width: 40px;height: 4px;background-color: #ddd;border-radius: 4px;position: absolute;transition-property: transform;transition-duration: 0.15s;transition-timing-function: ease;}#mega-menu-wrap-menu-1 .mega-menu-toggle .mega-toggle-block-1 .mega-toggle-animated-inner::before, #mega-menu-wrap-menu-1 .mega-menu-toggle .mega-toggle-block-1 .mega-toggle-animated-inner::after {content: "";display: block;}#mega-menu-wrap-menu-1 .mega-menu-toggle .mega-toggle-block-1 .mega-toggle-animated-inner::before {top: -10px;}#mega-menu-wrap-menu-1 .mega-menu-toggle .mega-toggle-block-1 .mega-toggle-animated-inner::after {bottom: -10px;}#mega-menu-wrap-menu-1 .mega-menu-toggle .mega-toggle-block-1 .mega-toggle-animated-slider .mega-toggle-animated-inner {top: 2px;}#mega-menu-wrap-menu-1 .mega-menu-toggle .mega-toggle-block-1 .mega-toggle-animated-slider .mega-toggle-animated-inner::before {top: 10px;transition-property: transform, opacity;transition-timing-function: ease;transition-duration: 0.15s;}#mega-menu-wrap-menu-1 .mega-menu-toggle .mega-toggle-block-1 .mega-toggle-animated-slider .mega-toggle-animated-inner::after {top: 20px;}#mega-menu-wrap-menu-1 .mega-menu-toggle.mega-menu-open .mega-toggle-block-1 .mega-toggle-animated-slider .mega-toggle-animated-inner {transform: translate3d(0, 10px, 0) rotate(45deg);}#mega-menu-wrap-menu-1 .mega-menu-toggle.mega-menu-open .mega-toggle-block-1 .mega-toggle-animated-slider .mega-toggle-animated-inner::before {transform: rotate(-45deg) translate3d(-5.71429px, -6px, 0);opacity: 0;}#mega-menu-wrap-menu-1 .mega-menu-toggle.mega-menu-open .mega-toggle-block-1 .mega-toggle-animated-slider .mega-toggle-animated-inner::after {transform: translate3d(0, -20px, 0) rotate(-90deg);}#mega-menu-wrap-menu-1 {clear: both;}.wp-block {}</style>
+	<link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.5.0/css/all.css"
+		  integrity="sha384-B4dIYHKNBt8Bc12p+WXckhzcICo0wtJAoU8YZTY5qE0Id1GSseTk6S+L3BlXeVIU" crossorigin="anonymous">
+	<link href="https://fonts.googleapis.com/css?family=Montserrat|Open+Sans" rel="stylesheet">
+		<!-- Google tag (gtag.js) -->
+	<script async src="https://www.googletagmanager.com/gtag/js?id=G-M12HKMQ4WZ"></script>
+	<script>
+			window.dataLayer = window.dataLayer || [];
+			function gtag(){dataLayer.push(arguments);}
+			gtag('js', new Date());
+
+			gtag('config', 'G-M12HKMQ4WZ');
+	</script>
+</head>
+
+<body class="error404 wp-custom-logo wp-theme-NG_Test_2020 lasso-v346 mega-menu-menu-1 hfeed">
+<div class="container-fluid page-wrapper">
+	<div id="page" class="site">
+		<a class="skip-link screen-reader-text"
+		   href="#content">Skip to content</a>
+		<header id="masthead"
+				class="site-header sticky-top ">
+			<nav id="site-navigation"
+				 class="main-navigation-desktop navbar navbar-expand-lg navbar-dark menu-bar navbar-default py-2 navbar-static-top">
+				<div class="container ad-override">
+											<a href="https://nichegamer.com/" class="custom-logo-link" rel="home"><img width="593" height="60" src="https://media.nichegamer.com/wp-content/uploads/2022/12/cropped-niche-gamer-site-header-2022.png" class="custom-logo" alt="Niche Gamer" decoding="async" srcset="https://media.nichegamer.com/wp-content/uploads/2022/12/cropped-niche-gamer-site-header-2022.png 593w, https://media.nichegamer.com/wp-content/uploads/2022/12/cropped-niche-gamer-site-header-2022-300x30.png 300w" sizes="(max-width: 593px) 100vw, 593px" /></a>										<!-- <button class="navbar-toggler collapsed" type="button" data-toggle="collapse" data-target="#primary-menu-wrap" aria-controls="primary-menu-wrap" aria-expanded="false" aria-label="Toggle navigation" disabled>
+						<span class="icon-bar top-bar"></span>
+						<span class="icon-bar middle-bar"></span>
+						<span class="icon-bar bottom-bar"></span>
+					</button> -->
+
+					<div id="mega-menu-wrap-menu-1" class="mega-menu-wrap"><div class="mega-menu-toggle"><div class="mega-toggle-blocks-left"><div class='mega-toggle-block mega-menu-toggle-animated-block mega-toggle-block-1' id='mega-toggle-block-1'><button aria-label="Toggle Menu" class="mega-toggle-animated mega-toggle-animated-slider" type="button" aria-expanded="false">
+                  <span class="mega-toggle-animated-box">
+                    <span class="mega-toggle-animated-inner"></span>
+                  </span>
+                </button></div></div><div class="mega-toggle-blocks-center"></div><div class="mega-toggle-blocks-right"></div></div><ul id="mega-menu-menu-1" class="mega-menu max-mega-menu mega-menu-horizontal mega-no-js" data-event="click" data-effect="fade_up" data-effect-speed="200" data-effect-mobile="disabled" data-effect-speed-mobile="0" data-panel-width="body" data-panel-inner-width=".container" data-mobile-force-width="body" data-second-click="go" data-document-click="collapse" data-vertical-behaviour="standard" data-breakpoint="768" data-unbind="true" data-mobile-state="collapse_all" data-mobile-direction="vertical" data-hover-intent-timeout="300" data-hover-intent-interval="100"><li mega-menu-item login-menu-item><button class="login-menu-button" data-toggle="modal" data-target="#exampleModal">Login</button></li><li class="mega-menu-item mega-menu-item-type-taxonomy mega-menu-item-object-category mega-align-bottom-left mega-menu-flyout mega-menu-item-58189" id="mega-menu-item-58189"><a class="mega-menu-link" href="https://nichegamer.com/news/" tabindex="0">News</a></li><li class="mega-menu-item mega-menu-item-type-custom mega-menu-item-object-custom mega-align-bottom-left mega-menu-flyout mega-menu-item-36807" id="mega-menu-item-36807"><a class="mega-menu-link" href="https://nichegamer.com/reviews" tabindex="0">Reviews</a></li><li class="mega-menu-item mega-menu-item-type-taxonomy mega-menu-item-object-category mega-align-bottom-left mega-menu-flyout mega-menu-item-190110" id="mega-menu-item-190110"><a class="mega-menu-link" href="https://nichegamer.com/previews/" tabindex="0">Previews</a></li><li class="mega-menu-item mega-menu-item-type-custom mega-menu-item-object-custom mega-align-bottom-left mega-menu-flyout mega-menu-item-190105" id="mega-menu-item-190105"><a class="mega-menu-link" href="https://nichegamer.com/category/videos" tabindex="0">Videos</a></li><li class="mega-menu-item mega-menu-item-type-taxonomy mega-menu-item-object-category mega-align-bottom-left mega-menu-flyout mega-menu-item-193020" id="mega-menu-item-193020"><a class="mega-menu-link" href="https://nichegamer.com/tech/" tabindex="0">Tech</a></li><li class="mega-menu-item mega-menu-item-type-custom mega-menu-item-object-custom mega-menu-item-has-children mega-menu-megamenu mega-menu-grid mega-align-bottom-left mega-menu-grid mega-hide-on-mobile mega-disable-link mega-menu-item-190104" id="mega-menu-item-190104"><a class="mega-menu-link" tabindex="0" aria-expanded="false" role="button">More<span class="mega-indicator" aria-hidden="true"></span></a>
+<ul class="mega-sub-menu" role='presentation'>
+<li class="mega-menu-row" id="mega-menu-190104-0">
+	<ul class="mega-sub-menu" style='--columns:12' role='presentation'>
+<li class="mega-menu-column mega-menu-columns-3-of-12" style="--columns:12; --span:3" id="mega-menu-190104-0-0">
+		<ul class="mega-sub-menu">
+<li class="mega-menu-item mega-menu-item-type-custom mega-menu-item-object-custom mega-menu-item-has-children mega-disable-link mega-menu-item-190033" id="mega-menu-item-190033"><a class="mega-menu-link" tabindex="0">GAMING<span class="mega-indicator" aria-hidden="true"></span></a>
+			<ul class="mega-sub-menu">
+<li class="mega-menu-item mega-menu-item-type-taxonomy mega-menu-item-object-category mega-menu-item-165957" id="mega-menu-item-165957"><a class="mega-menu-link" href="https://nichegamer.com/pc/">PC</a></li><li class="mega-menu-item mega-menu-item-type-taxonomy mega-menu-item-object-category mega-menu-item-260769" id="mega-menu-item-260769"><a class="mega-menu-link" href="https://nichegamer.com/xbox/">Xbox</a></li><li class="mega-menu-item mega-menu-item-type-taxonomy mega-menu-item-object-category mega-menu-item-260768" id="mega-menu-item-260768"><a class="mega-menu-link" href="https://nichegamer.com/playstation/">PlayStation</a></li><li class="mega-menu-item mega-menu-item-type-taxonomy mega-menu-item-object-category mega-menu-item-260767" id="mega-menu-item-260767"><a class="mega-menu-link" href="https://nichegamer.com/nintendo/">Nintendo</a></li><li class="mega-menu-item mega-menu-item-type-taxonomy mega-menu-item-object-category mega-menu-item-165959" id="mega-menu-item-165959"><a class="mega-menu-link" href="https://nichegamer.com/mobile/">Mobile</a></li><li class="mega-menu-item mega-menu-item-type-taxonomy mega-menu-item-object-category mega-menu-item-261025" id="mega-menu-item-261025"><a class="mega-menu-link" href="https://nichegamer.com/tabletop/">Tabletop</a></li>			</ul>
+</li>		</ul>
+</li><li class="mega-menu-column mega-menu-columns-3-of-12" style="--columns:12; --span:3" id="mega-menu-190104-0-1">
+		<ul class="mega-sub-menu">
+<li class="mega-menu-item mega-menu-item-type-custom mega-menu-item-object-custom mega-menu-item-has-children mega-menu-item-277684" id="mega-menu-item-277684"><a class="mega-menu-link" href="#">CULTURE<span class="mega-indicator" aria-hidden="true"></span></a>
+			<ul class="mega-sub-menu">
+<li class="mega-menu-item mega-menu-item-type-taxonomy mega-menu-item-object-category mega-menu-item-277691" id="mega-menu-item-277691"><a class="mega-menu-link" href="https://nichegamer.com/tv/">TV</a></li><li class="mega-menu-item mega-menu-item-type-taxonomy mega-menu-item-object-category mega-menu-item-277688" id="mega-menu-item-277688"><a class="mega-menu-link" href="https://nichegamer.com/movies/">Movies</a></li><li class="mega-menu-item mega-menu-item-type-taxonomy mega-menu-item-object-category mega-menu-item-277685" id="mega-menu-item-277685"><a class="mega-menu-link" href="https://nichegamer.com/anime/">Anime</a></li><li class="mega-menu-item mega-menu-item-type-taxonomy mega-menu-item-object-category mega-menu-item-277687" id="mega-menu-item-277687"><a class="mega-menu-link" href="https://nichegamer.com/manga/">Manga</a></li><li class="mega-menu-item mega-menu-item-type-taxonomy mega-menu-item-object-category mega-menu-item-277686" id="mega-menu-item-277686"><a class="mega-menu-link" href="https://nichegamer.com/food/">Food</a></li><li class="mega-menu-item mega-menu-item-type-taxonomy mega-menu-item-object-category mega-menu-item-261020" id="mega-menu-item-261020"><a class="mega-menu-link" href="https://nichegamer.com/merch/">Merch</a></li><li class="mega-menu-item mega-menu-item-type-taxonomy mega-menu-item-object-category mega-menu-item-277690" id="mega-menu-item-277690"><a class="mega-menu-link" href="https://nichegamer.com/toys/">Toys</a></li>			</ul>
+</li>		</ul>
+</li><li class="mega-menu-column mega-menu-columns-3-of-12" style="--columns:12; --span:3" id="mega-menu-190104-0-2">
+		<ul class="mega-sub-menu">
+<li class="mega-menu-item mega-menu-item-type-custom mega-menu-item-object-custom mega-menu-item-has-children mega-disable-link mega-menu-item-190034" id="mega-menu-item-190034"><a class="mega-menu-link" tabindex="0">ORIGINALS<span class="mega-indicator" aria-hidden="true"></span></a>
+			<ul class="mega-sub-menu">
+<li class="mega-menu-item mega-menu-item-type-taxonomy mega-menu-item-object-category mega-menu-item-236558" id="mega-menu-item-236558"><a class="mega-menu-link" href="https://nichegamer.com/guides/">Guides</a></li><li class="mega-menu-item mega-menu-item-type-taxonomy mega-menu-item-object-category mega-menu-item-96412" id="mega-menu-item-96412"><a class="mega-menu-link" href="https://nichegamer.com/spotlight/">Spotlight</a></li><li class="mega-menu-item mega-menu-item-type-taxonomy mega-menu-item-object-category mega-menu-item-1757" id="mega-menu-item-1757"><a class="mega-menu-link" href="https://nichegamer.com/editorials/">Editorials</a></li><li class="mega-menu-item mega-menu-item-type-taxonomy mega-menu-item-object-category mega-menu-item-17508" id="mega-menu-item-17508"><a class="mega-menu-link" href="https://nichegamer.com/nichecast/">NicheCast</a></li><li class="mega-menu-item mega-menu-item-type-taxonomy mega-menu-item-object-category mega-menu-item-17504" id="mega-menu-item-17504"><a class="mega-menu-link" href="https://nichegamer.com/interviews/">Interviews</a></li><li class="mega-menu-item mega-menu-item-type-taxonomy mega-menu-item-object-category mega-menu-item-97310" id="mega-menu-item-97310"><a class="mega-menu-link" href="https://nichegamer.com/whats-in-the-box/">What's in the Box?!</a></li>			</ul>
+</li>		</ul>
+</li><li class="mega-menu-column mega-menu-columns-3-of-12" style="--columns:12; --span:3" id="mega-menu-190104-0-3">
+		<ul class="mega-sub-menu">
+<li class="mega-menu-item mega-menu-item-type-custom mega-menu-item-object-custom mega-menu-item-has-children mega-disable-link mega-menu-item-190035" id="mega-menu-item-190035"><a class="mega-menu-link" tabindex="0">NICHE GAMER<span class="mega-indicator" aria-hidden="true"></span></a>
+			<ul class="mega-sub-menu">
+<li class="mega-menu-item mega-menu-item-type-custom mega-menu-item-object-custom mega-menu-item-78600" id="mega-menu-item-78600"><a class="mega-menu-link" href="https://nichegamer.com/about">About Us</a></li><li class="mega-menu-item mega-menu-item-type-custom mega-menu-item-object-custom mega-menu-item-31793" id="mega-menu-item-31793"><a class="mega-menu-link" href="https://nichegamer.com/subscribe/">Subscribe</a></li><li class="mega-menu-item mega-menu-item-type-custom mega-menu-item-object-custom mega-menu-item-190131" id="mega-menu-item-190131"><a class="mega-menu-link" href="https://nichegamer.com/contact-us/">Contact Us</a></li><li class="mega-menu-item mega-menu-item-type-custom mega-menu-item-object-custom mega-menu-item-33918" id="mega-menu-item-33918"><a class="mega-menu-link" href="https://nichegamer.com/tos">Terms of Service</a></li>			</ul>
+</li><li class="mega-menu-item mega-menu-item-type-widget widget_text mega-menu-item-text-2" id="mega-menu-item-text-2">			<div class="textwidget"><p>© 2013-2024 Niche Gamer.</p>
+</div>
+		</li>		</ul>
+</li>	</ul>
+</li></ul>
+</li></ul></div>
+					<div class="d-flex">
+						<div>
+							<i class="fas fa-search menu-search-icon nav-link"></i>
+						</div>
+						<div class="d-none d-md-block">
+							<i class="fa fa-user login-icon" style="color:white" data-toggle="modal"
+							   data-target="#exampleModal"></i>
+						</div>
+					</div>
+
+					<!--<div class="d-none d-md-block">
+						<a href="https://nichegamer.com/wp-login.php" class="share-facebook dropbtn" onclick="toggleLogin()">
+							<i class="fa fa-user" style="color:white"></i>
+							<ul class="login-option" style="display:none;list-style-type:none;z-index: 1;position:absolute">
+								<li><a href="https://nichegamer.com/wp-login.php" target="_blank">Login</a></li>
+								<li><a href="https://www.nichegamer.com/society" target="_blank">Register</a></li>
+							</ul>
+						</a>
+					</div>-->
+				</div>
+			</nav>
+
+			<nav id="site-navigation"
+				 class="main-navigation-mobile navbar navbar-expand-lg navbar-dark menu-bar navbar-default py-2 navbar-static-top">
+				<div class="container ad-override">
+					<div id="mega-menu-wrap-menu-1" class="mega-menu-wrap"><div class="mega-menu-toggle"><div class="mega-toggle-blocks-left"><div class='mega-toggle-block mega-menu-toggle-animated-block mega-toggle-block-1' id='mega-toggle-block-1'><button aria-label="Toggle Menu" class="mega-toggle-animated mega-toggle-animated-slider" type="button" aria-expanded="false">
+                  <span class="mega-toggle-animated-box">
+                    <span class="mega-toggle-animated-inner"></span>
+                  </span>
+                </button></div></div><div class="mega-toggle-blocks-center"></div><div class="mega-toggle-blocks-right"></div></div><ul id="mega-menu-menu-1" class="mega-menu max-mega-menu mega-menu-horizontal mega-no-js" data-event="click" data-effect="fade_up" data-effect-speed="200" data-effect-mobile="disabled" data-effect-speed-mobile="0" data-panel-width="body" data-panel-inner-width=".container" data-mobile-force-width="body" data-second-click="go" data-document-click="collapse" data-vertical-behaviour="standard" data-breakpoint="768" data-unbind="true" data-mobile-state="collapse_all" data-mobile-direction="vertical" data-hover-intent-timeout="300" data-hover-intent-interval="100"><li mega-menu-item login-menu-item><button class="login-menu-button" data-toggle="modal" data-target="#exampleModal">Login</button></li><li class="mega-menu-item mega-menu-item-type-taxonomy mega-menu-item-object-category mega-align-bottom-left mega-menu-flyout mega-menu-item-58189" id="mega-menu-item-58189"><a class="mega-menu-link" href="https://nichegamer.com/news/" tabindex="0">News</a></li><li class="mega-menu-item mega-menu-item-type-custom mega-menu-item-object-custom mega-align-bottom-left mega-menu-flyout mega-menu-item-36807" id="mega-menu-item-36807"><a class="mega-menu-link" href="https://nichegamer.com/reviews" tabindex="0">Reviews</a></li><li class="mega-menu-item mega-menu-item-type-taxonomy mega-menu-item-object-category mega-align-bottom-left mega-menu-flyout mega-menu-item-190110" id="mega-menu-item-190110"><a class="mega-menu-link" href="https://nichegamer.com/previews/" tabindex="0">Previews</a></li><li class="mega-menu-item mega-menu-item-type-custom mega-menu-item-object-custom mega-align-bottom-left mega-menu-flyout mega-menu-item-190105" id="mega-menu-item-190105"><a class="mega-menu-link" href="https://nichegamer.com/category/videos" tabindex="0">Videos</a></li><li class="mega-menu-item mega-menu-item-type-taxonomy mega-menu-item-object-category mega-align-bottom-left mega-menu-flyout mega-menu-item-193020" id="mega-menu-item-193020"><a class="mega-menu-link" href="https://nichegamer.com/tech/" tabindex="0">Tech</a></li><li class="mega-menu-item mega-menu-item-type-custom mega-menu-item-object-custom mega-menu-item-has-children mega-menu-megamenu mega-menu-grid mega-align-bottom-left mega-menu-grid mega-hide-on-mobile mega-disable-link mega-menu-item-190104" id="mega-menu-item-190104"><a class="mega-menu-link" tabindex="0" aria-expanded="false" role="button">More<span class="mega-indicator" aria-hidden="true"></span></a>
+<ul class="mega-sub-menu" role='presentation'>
+<li class="mega-menu-row" id="mega-menu-190104-0">
+	<ul class="mega-sub-menu" style='--columns:12' role='presentation'>
+<li class="mega-menu-column mega-menu-columns-3-of-12" style="--columns:12; --span:3" id="mega-menu-190104-0-0">
+		<ul class="mega-sub-menu">
+<li class="mega-menu-item mega-menu-item-type-custom mega-menu-item-object-custom mega-menu-item-has-children mega-disable-link mega-menu-item-190033" id="mega-menu-item-190033"><a class="mega-menu-link" tabindex="0">GAMING<span class="mega-indicator" aria-hidden="true"></span></a>
+			<ul class="mega-sub-menu">
+<li class="mega-menu-item mega-menu-item-type-taxonomy mega-menu-item-object-category mega-menu-item-165957" id="mega-menu-item-165957"><a class="mega-menu-link" href="https://nichegamer.com/pc/">PC</a></li><li class="mega-menu-item mega-menu-item-type-taxonomy mega-menu-item-object-category mega-menu-item-260769" id="mega-menu-item-260769"><a class="mega-menu-link" href="https://nichegamer.com/xbox/">Xbox</a></li><li class="mega-menu-item mega-menu-item-type-taxonomy mega-menu-item-object-category mega-menu-item-260768" id="mega-menu-item-260768"><a class="mega-menu-link" href="https://nichegamer.com/playstation/">PlayStation</a></li><li class="mega-menu-item mega-menu-item-type-taxonomy mega-menu-item-object-category mega-menu-item-260767" id="mega-menu-item-260767"><a class="mega-menu-link" href="https://nichegamer.com/nintendo/">Nintendo</a></li><li class="mega-menu-item mega-menu-item-type-taxonomy mega-menu-item-object-category mega-menu-item-165959" id="mega-menu-item-165959"><a class="mega-menu-link" href="https://nichegamer.com/mobile/">Mobile</a></li><li class="mega-menu-item mega-menu-item-type-taxonomy mega-menu-item-object-category mega-menu-item-261025" id="mega-menu-item-261025"><a class="mega-menu-link" href="https://nichegamer.com/tabletop/">Tabletop</a></li>			</ul>
+</li>		</ul>
+</li><li class="mega-menu-column mega-menu-columns-3-of-12" style="--columns:12; --span:3" id="mega-menu-190104-0-1">
+		<ul class="mega-sub-menu">
+<li class="mega-menu-item mega-menu-item-type-custom mega-menu-item-object-custom mega-menu-item-has-children mega-menu-item-277684" id="mega-menu-item-277684"><a class="mega-menu-link" href="#">CULTURE<span class="mega-indicator" aria-hidden="true"></span></a>
+			<ul class="mega-sub-menu">
+<li class="mega-menu-item mega-menu-item-type-taxonomy mega-menu-item-object-category mega-menu-item-277691" id="mega-menu-item-277691"><a class="mega-menu-link" href="https://nichegamer.com/tv/">TV</a></li><li class="mega-menu-item mega-menu-item-type-taxonomy mega-menu-item-object-category mega-menu-item-277688" id="mega-menu-item-277688"><a class="mega-menu-link" href="https://nichegamer.com/movies/">Movies</a></li><li class="mega-menu-item mega-menu-item-type-taxonomy mega-menu-item-object-category mega-menu-item-277685" id="mega-menu-item-277685"><a class="mega-menu-link" href="https://nichegamer.com/anime/">Anime</a></li><li class="mega-menu-item mega-menu-item-type-taxonomy mega-menu-item-object-category mega-menu-item-277687" id="mega-menu-item-277687"><a class="mega-menu-link" href="https://nichegamer.com/manga/">Manga</a></li><li class="mega-menu-item mega-menu-item-type-taxonomy mega-menu-item-object-category mega-menu-item-277686" id="mega-menu-item-277686"><a class="mega-menu-link" href="https://nichegamer.com/food/">Food</a></li><li class="mega-menu-item mega-menu-item-type-taxonomy mega-menu-item-object-category mega-menu-item-261020" id="mega-menu-item-261020"><a class="mega-menu-link" href="https://nichegamer.com/merch/">Merch</a></li><li class="mega-menu-item mega-menu-item-type-taxonomy mega-menu-item-object-category mega-menu-item-277690" id="mega-menu-item-277690"><a class="mega-menu-link" href="https://nichegamer.com/toys/">Toys</a></li>			</ul>
+</li>		</ul>
+</li><li class="mega-menu-column mega-menu-columns-3-of-12" style="--columns:12; --span:3" id="mega-menu-190104-0-2">
+		<ul class="mega-sub-menu">
+<li class="mega-menu-item mega-menu-item-type-custom mega-menu-item-object-custom mega-menu-item-has-children mega-disable-link mega-menu-item-190034" id="mega-menu-item-190034"><a class="mega-menu-link" tabindex="0">ORIGINALS<span class="mega-indicator" aria-hidden="true"></span></a>
+			<ul class="mega-sub-menu">
+<li class="mega-menu-item mega-menu-item-type-taxonomy mega-menu-item-object-category mega-menu-item-236558" id="mega-menu-item-236558"><a class="mega-menu-link" href="https://nichegamer.com/guides/">Guides</a></li><li class="mega-menu-item mega-menu-item-type-taxonomy mega-menu-item-object-category mega-menu-item-96412" id="mega-menu-item-96412"><a class="mega-menu-link" href="https://nichegamer.com/spotlight/">Spotlight</a></li><li class="mega-menu-item mega-menu-item-type-taxonomy mega-menu-item-object-category mega-menu-item-1757" id="mega-menu-item-1757"><a class="mega-menu-link" href="https://nichegamer.com/editorials/">Editorials</a></li><li class="mega-menu-item mega-menu-item-type-taxonomy mega-menu-item-object-category mega-menu-item-17508" id="mega-menu-item-17508"><a class="mega-menu-link" href="https://nichegamer.com/nichecast/">NicheCast</a></li><li class="mega-menu-item mega-menu-item-type-taxonomy mega-menu-item-object-category mega-menu-item-17504" id="mega-menu-item-17504"><a class="mega-menu-link" href="https://nichegamer.com/interviews/">Interviews</a></li><li class="mega-menu-item mega-menu-item-type-taxonomy mega-menu-item-object-category mega-menu-item-97310" id="mega-menu-item-97310"><a class="mega-menu-link" href="https://nichegamer.com/whats-in-the-box/">What's in the Box?!</a></li>			</ul>
+</li>		</ul>
+</li><li class="mega-menu-column mega-menu-columns-3-of-12" style="--columns:12; --span:3" id="mega-menu-190104-0-3">
+		<ul class="mega-sub-menu">
+<li class="mega-menu-item mega-menu-item-type-custom mega-menu-item-object-custom mega-menu-item-has-children mega-disable-link mega-menu-item-190035" id="mega-menu-item-190035"><a class="mega-menu-link" tabindex="0">NICHE GAMER<span class="mega-indicator" aria-hidden="true"></span></a>
+			<ul class="mega-sub-menu">
+<li class="mega-menu-item mega-menu-item-type-custom mega-menu-item-object-custom mega-menu-item-78600" id="mega-menu-item-78600"><a class="mega-menu-link" href="https://nichegamer.com/about">About Us</a></li><li class="mega-menu-item mega-menu-item-type-custom mega-menu-item-object-custom mega-menu-item-31793" id="mega-menu-item-31793"><a class="mega-menu-link" href="https://nichegamer.com/subscribe/">Subscribe</a></li><li class="mega-menu-item mega-menu-item-type-custom mega-menu-item-object-custom mega-menu-item-190131" id="mega-menu-item-190131"><a class="mega-menu-link" href="https://nichegamer.com/contact-us/">Contact Us</a></li><li class="mega-menu-item mega-menu-item-type-custom mega-menu-item-object-custom mega-menu-item-33918" id="mega-menu-item-33918"><a class="mega-menu-link" href="https://nichegamer.com/tos">Terms of Service</a></li>			</ul>
+</li><li class="mega-menu-item mega-menu-item-type-widget widget_text mega-menu-item-text-2" id="mega-menu-item-text-2">			<div class="textwidget"><p>© 2013-2024 Niche Gamer.</p>
+</div>
+		</li>		</ul>
+</li>	</ul>
+</li></ul>
+</li></ul></div>
+											<a href="https://nichegamer.com/" class="custom-logo-link" rel="home"><img width="593" height="60" src="https://media.nichegamer.com/wp-content/uploads/2022/12/cropped-niche-gamer-site-header-2022.png" class="custom-logo" alt="Niche Gamer" decoding="async" srcset="https://media.nichegamer.com/wp-content/uploads/2022/12/cropped-niche-gamer-site-header-2022.png 593w, https://media.nichegamer.com/wp-content/uploads/2022/12/cropped-niche-gamer-site-header-2022-300x30.png 300w" sizes="(max-width: 593px) 100vw, 593px" /></a>										<!-- <button class="navbar-toggler collapsed" type="button" data-toggle="collapse" data-target="#primary-menu-wrap" aria-controls="primary-menu-wrap" aria-expanded="false" aria-label="Toggle navigation" disabled>
+						<span class="icon-bar top-bar"></span>
+						<span class="icon-bar middle-bar"></span>
+						<span class="icon-bar bottom-bar"></span>
+					</button> -->
+
+					<div class="nav-item menu-item menu-item-type-taxonomy menu-item-object-category">
+						<i class="fas fa-search menu-search-icon nav-link"></i>
+					</div>
+
+					<!--<div class="d-none d-md-block">
+						<a href="https://nichegamer.com/wp-login.php" class="share-facebook dropbtn" onclick="toggleLogin()">
+							<i class="fa fa-user" style="color:white"></i>
+							<ul class="login-option" style="display:none;list-style-type:none;z-index: 1;position:absolute">
+								<li><a href="https://nichegamer.com/wp-login.php" target="_blank">Login</a></li>
+								<li><a href="https://www.nichegamer.com/society" target="_blank">Register</a></li>
+							</ul>
+						</a>
+					</div>-->
+
+					<div class="d-none d-md-block">
+						<i class="fa fa-user login-icon" style="color:white" data-toggle="modal"
+						   data-target="#exampleModal"></i>
+					</div>
+				</div>
+			</nav>
+
+			<nav id="site-search" class="navbar-dark menu-bar navbar-default search-nav">
+				<div class="container">
+					<form role="search" action="https://nichegamer.com/" method="get">
+    <div class="row no-gutters">
+        <div class="col">
+            <input class="form-control border-secondary border-right-0 rounded-0 menu-search-field" type="text" name="s" placeholder="What Are You Looking For?" id="search_field" value="">
+        </div>
+        <div class="col-auto">
+            <button class="btn btn-outline-secondary border-left-0 rounded-0 rounded-right search-nav-btn" type="button">
+                <i class="fa fa-search"></i>
+            </button>
+        </div>
+        <div class="col-auto">
+            <button class="btn btn-outline-secondary border-left-0 rounded-0 rounded-right close-search-btn search-nav-btn" type="button">
+                <i class="fas fa-times-circle"></i>
+            </button>
+        </div>
+    </div>
+</form>
+				</div>
+			</nav>
+
+		</header><!-- #masthead -->
+
+		<!-- Modal -->
+		<div class="modal fade" id="exampleModal" tabindex="-1" aria-labelledby="exampleModalLabel" aria-hidden="true">
+			<div class="modal-dialog modal-dialog-centered">
+				<div class="modal-content bg-dark">
+					<div class="modal-header">
+						<h5 class="modal-title" id="exampleModalLabel">Login Area</h5>
+						<button type="button" class="close" data-dismiss="modal" aria-label="Close">
+							<span aria-hidden="true">&times;</span>
+						</button>
+					</div>
+					<div class="modal-body">
+													<form name="loginform" id="loginform" action="https://nichegamer.com/wp-login.php" method="post"><p class="login-username">
+				<label for="user_login">Username or Email Address</label>
+				<input type="text" name="log" id="user_login" autocomplete="username" class="input" value="" size="20" />
+			</p><p class="login-password">
+				<label for="user_pass">Password</label>
+				<input type="password" name="pwd" id="user_pass" autocomplete="current-password" spellcheck="false" class="input" value="" size="20" />
+			</p><p class="login-remember"><label><input name="rememberme" type="checkbox" id="rememberme" value="forever" /> Remember Me</label></p><p class="login-submit">
+				<input type="submit" name="wp-submit" id="wp-submit" class="button button-primary" value="Log In" />
+				<input type="hidden" name="redirect_to" value="https://nichegamer.com/wp-content/uploads/2023/05/delicious-in-dungeon-meshi-05-25-2023-e1685020113981.jpg" />
+			</p></form>							<a class="btn btn-primary" href="https://nichegamer.com/subscribe/" role="button">Sign Up</a>
+											</div>
+				</div>
+			</div>
+		</div>
+
+		<div id="content" class="site-content">
+
+			<div class="row top-ad-row">
+				<div class="col">
+					<div class="menu-ad-container">
+						<div class="menu-ad">
+															<li id="custom_html-2" class="widget_text widget widget_custom_html"><div class="textwidget custom-html-widget"></div></li>
+													</div>
+					</div>
+				</div>
+			</div>
+
+
+	<div class="container">
+		<div class="row">
+
+							<div class="col-md-8 wp-bp-content-width">
+			
+				<div id="primary" class="content-area wp-bp-404">
+					<main id="main" class="site-main">
+
+						<div class="card mt-1r">
+							<div class="card-body">
+								<section class="error-404 not-found">
+									<header class="page-header">
+										<h1 class="page-title">Oops! That page can&rsquo;t be found.</h1>
+									</header><!-- .page-header -->
+
+									<div class="page-content">
+										<p>It looks like nothing was found at this location. Maybe try one of the links below</p>
+										
+										<div class="row">
+											<div class="col-md-6 col-xs-12">
+											
+												
+		<div class="widget widget_recent_entries">
+		<h5 class="widget-title mt-4">Recent Posts</h5>
+		<ul>
+											<li>
+					<a href="https://nichegamer.com/next-generation-rhythm-game-sound-system-enters-early-access-in-october/">Next generation rhythm game Sound System enters Early Access in October</a>
+									</li>
+											<li>
+					<a href="https://nichegamer.com/basketball-classics-now-available-for-consoles/">Basketball Classics now available for consoles</a>
+									</li>
+											<li>
+					<a href="https://nichegamer.com/crimson-desert-tops-2-million-copies-sold-within-24-hours/">Crimson Desert tops 2 million copies sold within 24 hours</a>
+									</li>
+											<li>
+					<a href="https://nichegamer.com/ssr-wives-investor-threatens-legal-action-against-original-creator/">SSR Wives investor threatens legal action against original creator</a>
+									</li>
+											<li>
+					<a href="https://nichegamer.com/lords-of-the-fallen-reboot-sells-over-2-5-million-copies/">Lords of the Fallen reboot sells over 2.5 million copies</a>
+									</li>
+					</ul>
+
+		</div>											
+											</div>
+											
+											<div class="col-md-6 col-xs-12">
+												<div class="widget widget_categories">
+													<h5 class="widget-title mt-4">Most Used Categories</h5>
+													<ul>
+														<li class="cat-item cat-item-4542"><a href="https://nichegamer.com/news/">News</a> (45,974)
+</li>
+	<li class="cat-item cat-item-12"><a href="https://nichegamer.com/pc/">PC</a> (28,004)
+</li>
+	<li class="cat-item cat-item-16"><a href="https://nichegamer.com/mobile/">Mobile</a> (3,023)
+</li>
+	<li class="cat-item cat-item-2951"><a href="https://nichegamer.com/imports/">Imports</a> (2,824)
+</li>
+	<li class="cat-item cat-item-4"><a href="https://nichegamer.com/playstation/ps4/">PS4</a> (18,154)
+</li>
+	<li class="cat-item cat-item-12420"><a href="https://nichegamer.com/playstation/ps5/">PS5</a> (9,738)
+</li>
+	<li class="cat-item cat-item-8"><a href="https://nichegamer.com/playstation/vita/">Vita</a> (3,057)
+</li>
+	<li class="cat-item cat-item-7575"><a href="https://nichegamer.com/nintendo/switch/">Switch</a> (11,872)
+</li>
+	<li class="cat-item cat-item-5"><a href="https://nichegamer.com/xbox/xbox-one/">Xbox One</a> (11,582)
+</li>
+	<li class="cat-item cat-item-12944"><a href="https://nichegamer.com/xbox/xbox-series-x/">Xbox Series X</a> (8,225)
+</li>
+													</ul>
+												</div>
+											
+											</div>
+										</div>
+									</div><!-- .page-content -->
+								</section><!-- .error-404 -->
+							</div>
+							<!-- /.card-body -->
+						</div>
+						<!-- /.card -->
+
+					</main><!-- #main -->
+				</div><!-- #primary -->
+			</div>
+			<!-- /.col-md-8 -->
+
+												<div class="col-md-4 wp-bp-sidebar-width">
+										
+<aside id="secondary" class="widget-area sidebar-1-area mt-1r">
+
+    	        
+    
+            <section id="listing-widget" class="widget card">
+                <div class="row">
+                    <div class="col">
+
+                        <div class="row">
+                            <div class="col">
+                                <h1 class="listing-widget widget-title"><span class="title-text-highlight">Popular</span> News</span></h1>
+                            </div>
+                        </div>
+
+                        
+                            <div class="row review_details_row">
+                                <div class="col-lg col-md col-sm col-xs review_details_block">
+                                        <a href="https://nichegamer.com/netease-cuts-off-funding-to-nagoshi-studio/" title="NetEase cuts off funding to Nagoshi Studio"><img width="300" height="169" src="https://media.nichegamer.com/wp-content/uploads/2026/03/nagoshi-studio-03-07-26-1-300x169.jpg" class="latest-featured-article-image wp-post-image" alt="Nagoshi Studio" decoding="async" loading="lazy" srcset="https://media.nichegamer.com/wp-content/uploads/2026/03/nagoshi-studio-03-07-26-1-300x169.jpg 300w, https://media.nichegamer.com/wp-content/uploads/2026/03/nagoshi-studio-03-07-26-1-1024x576.jpg 1024w, https://media.nichegamer.com/wp-content/uploads/2026/03/nagoshi-studio-03-07-26-1-768x432.jpg 768w, https://media.nichegamer.com/wp-content/uploads/2026/03/nagoshi-studio-03-07-26-1-1536x864.jpg 1536w, https://media.nichegamer.com/wp-content/uploads/2026/03/nagoshi-studio-03-07-26-1.jpg 1920w" sizes="auto, (max-width: 300px) 100vw, 300px" /></a>
+<div class="entry-meta text-muted">
+<span class="dashicons dashicons-clock"></span> 2 weeks ago
+</div>
+                                    <h2 class="entry-title card-title h3">
+                                        <a href="https://nichegamer.com/netease-cuts-off-funding-to-nagoshi-studio/" title="NetEase cuts off funding to Nagoshi Studio" class="catalog-link">NetEase cuts off funding to Nagoshi Studio</a><br />
+                                        </h2>                                </div>
+                            </div>
+
+
+                        
+                            <div class="row review_details_row">
+                                <div class="col-lg col-md col-sm col-xs review_details_block">
+                                        <a href="https://nichegamer.com/highguard-shutting-down-this-month/" title="Highguard shutting down this month"><img width="300" height="169" src="https://media.nichegamer.com/wp-content/uploads/2026/03/highguard-03-03-26-1-300x169.jpg" class="latest-featured-article-image wp-post-image" alt="Highguard" decoding="async" loading="lazy" srcset="https://media.nichegamer.com/wp-content/uploads/2026/03/highguard-03-03-26-1-300x169.jpg 300w, https://media.nichegamer.com/wp-content/uploads/2026/03/highguard-03-03-26-1-1024x576.jpg 1024w, https://media.nichegamer.com/wp-content/uploads/2026/03/highguard-03-03-26-1-768x432.jpg 768w, https://media.nichegamer.com/wp-content/uploads/2026/03/highguard-03-03-26-1-1536x864.jpg 1536w, https://media.nichegamer.com/wp-content/uploads/2026/03/highguard-03-03-26-1.jpg 1920w" sizes="auto, (max-width: 300px) 100vw, 300px" /></a>
+<div class="entry-meta text-muted">
+<span class="dashicons dashicons-clock"></span> 3 weeks ago
+</div>
+                                    <h2 class="entry-title card-title h3">
+                                        <a href="https://nichegamer.com/highguard-shutting-down-this-month/" title="Highguard shutting down this month" class="catalog-link">Highguard shutting down this month</a><br />
+                                        </h2>                                </div>
+                            </div>
+
+
+                        
+                            <div class="row review_details_row">
+                                <div class="col-lg col-md col-sm col-xs review_details_block">
+                                        <a href="https://nichegamer.com/the-abased-announced/" title="Bible-inspired fantasy ARPG The Abased announced"><img width="300" height="169" src="https://media.nichegamer.com/wp-content/uploads/2026/03/the-abased-03-02-26-1-300x169.jpg" class="latest-featured-article-image wp-post-image" alt="The Abased" decoding="async" loading="lazy" srcset="https://media.nichegamer.com/wp-content/uploads/2026/03/the-abased-03-02-26-1-300x169.jpg 300w, https://media.nichegamer.com/wp-content/uploads/2026/03/the-abased-03-02-26-1-1024x576.jpg 1024w, https://media.nichegamer.com/wp-content/uploads/2026/03/the-abased-03-02-26-1-768x432.jpg 768w, https://media.nichegamer.com/wp-content/uploads/2026/03/the-abased-03-02-26-1-1536x864.jpg 1536w, https://media.nichegamer.com/wp-content/uploads/2026/03/the-abased-03-02-26-1.jpg 1920w" sizes="auto, (max-width: 300px) 100vw, 300px" /></a>
+<div class="entry-meta text-muted">
+<span class="dashicons dashicons-clock"></span> 3 weeks ago
+</div>
+                                    <h2 class="entry-title card-title h3">
+                                        <a href="https://nichegamer.com/the-abased-announced/" title="Bible-inspired fantasy ARPG The Abased announced" class="catalog-link">Bible-inspired fantasy ARPG The Abased announced</a><br />
+                                        </h2>                                </div>
+                            </div>
+
+
+                        
+                    </div>
+                </div>
+            </section>
+
+
+            <section id="custom_html-23" class="widget_text widget widget_custom_html card center-widget-content hide-mobile-element"><div class="textwidget custom-html-widget"></div></section>    
+    
+            <section id="listing-widget" class="widget card">
+                <div class="row">
+                    <div class="col">
+
+                        <div class="row">
+                            <div class="col">
+                                <h1 class="listing-widget widget-title"><span class="title-text-highlight">Latest</span> Reviews</span></h1>
+                            </div>
+                        </div>
+
+                        
+                            <div class="row review_details_row">
+                                <div class="col-lg col-md col-sm col-xs review_details_block">
+									<a href="https://nichegamer.com/reviews/1348-ex-voto-review/" title="1348 Ex Voto Review"><img width="300" height="169" src="https://media.nichegamer.com/wp-content/uploads/2026/03/1348-ex-voto-3-12-2026-1-300x169.jpg" class="latest-featured-article-image wp-post-image" alt="" decoding="async" loading="lazy" srcset="https://media.nichegamer.com/wp-content/uploads/2026/03/1348-ex-voto-3-12-2026-1-300x169.jpg 300w, https://media.nichegamer.com/wp-content/uploads/2026/03/1348-ex-voto-3-12-2026-1-1024x576.jpg 1024w, https://media.nichegamer.com/wp-content/uploads/2026/03/1348-ex-voto-3-12-2026-1-768x432.jpg 768w, https://media.nichegamer.com/wp-content/uploads/2026/03/1348-ex-voto-3-12-2026-1-1536x864.jpg 1536w, https://media.nichegamer.com/wp-content/uploads/2026/03/1348-ex-voto-3-12-2026-1-2048x1152.jpg 2048w" sizes="auto, (max-width: 300px) 100vw, 300px" /></a>
+
+									<div class="entry-meta text-muted">
+<span class="dashicons dashicons-clock"></span> 22 hours ago
+</div>
+                                    <h2 class="entry-title card-title h3">
+                                        <a href="https://nichegamer.com/reviews/1348-ex-voto-review/" title="1348 Ex Voto Review" class="catalog-link">1348 Ex Voto Review</a><br />
+                                        </h2>
+                                </div>
+                            </div>
+
+
+                        
+                            <div class="row review_details_row">
+                                <div class="col-lg col-md col-sm col-xs review_details_block">
+									<a href="https://nichegamer.com/reviews/dark-auction-review/" title="Dark Auction Review"><img width="300" height="169" src="https://media.nichegamer.com/wp-content/uploads/2025/10/dark-auction-10-12-25-1-300x169.jpg" class="latest-featured-article-image wp-post-image" alt="Dark Auction" decoding="async" loading="lazy" srcset="https://media.nichegamer.com/wp-content/uploads/2025/10/dark-auction-10-12-25-1-300x169.jpg 300w, https://media.nichegamer.com/wp-content/uploads/2025/10/dark-auction-10-12-25-1-1024x576.jpg 1024w, https://media.nichegamer.com/wp-content/uploads/2025/10/dark-auction-10-12-25-1-768x432.jpg 768w, https://media.nichegamer.com/wp-content/uploads/2025/10/dark-auction-10-12-25-1-1536x864.jpg 1536w, https://media.nichegamer.com/wp-content/uploads/2025/10/dark-auction-10-12-25-1.jpg 1920w" sizes="auto, (max-width: 300px) 100vw, 300px" /></a>
+
+									<div class="entry-meta text-muted">
+<span class="dashicons dashicons-clock"></span> 1 day ago
+</div>
+                                    <h2 class="entry-title card-title h3">
+                                        <a href="https://nichegamer.com/reviews/dark-auction-review/" title="Dark Auction Review" class="catalog-link">Dark Auction Review</a><br />
+                                        </h2>
+                                </div>
+                            </div>
+
+
+                        
+                            <div class="row review_details_row">
+                                <div class="col-lg col-md col-sm col-xs review_details_block">
+									<a href="https://nichegamer.com/reviews/etrange-overlord-review/" title="Etrange Overlord Review"><img width="300" height="169" src="https://media.nichegamer.com/wp-content/uploads/2026/03/Etrange-Overload-3-15-2026-1-300x169.jpg" class="latest-featured-article-image wp-post-image" alt="" decoding="async" loading="lazy" srcset="https://media.nichegamer.com/wp-content/uploads/2026/03/Etrange-Overload-3-15-2026-1-300x169.jpg 300w, https://media.nichegamer.com/wp-content/uploads/2026/03/Etrange-Overload-3-15-2026-1-1024x576.jpg 1024w, https://media.nichegamer.com/wp-content/uploads/2026/03/Etrange-Overload-3-15-2026-1-768x432.jpg 768w, https://media.nichegamer.com/wp-content/uploads/2026/03/Etrange-Overload-3-15-2026-1-1536x864.jpg 1536w, https://media.nichegamer.com/wp-content/uploads/2026/03/Etrange-Overload-3-15-2026-1.jpg 1920w" sizes="auto, (max-width: 300px) 100vw, 300px" /></a>
+
+									<div class="entry-meta text-muted">
+<span class="dashicons dashicons-clock"></span> 2 days ago
+</div>
+                                    <h2 class="entry-title card-title h3">
+                                        <a href="https://nichegamer.com/reviews/etrange-overlord-review/" title="Etrange Overlord Review" class="catalog-link">Etrange Overlord Review</a><br />
+                                        </h2>
+                                </div>
+                            </div>
+
+
+                        
+                    </div>
+                </div>
+            </section>
+
+
+            <section id="custom_html-21" class="widget_text widget widget_custom_html card"><div class="textwidget custom-html-widget"></div></section>    
+    	
+	            </aside><!-- #secondary -->
+					</div>
+					<!-- /.col-md-4 -->
+					</div>
+		<!-- /.row -->
+	</div>
+	<!-- /.container -->
+
+<!-- Quantcast Tag -->
+<script type="text/javascript">
+window._qevents = window._qevents || [];
+
+(function() {
+var elem = document.createElement('script');
+elem.src = (document.location.protocol == "https:" ? "https://secure" : "http://edge") + ".quantserve.com/quant.js";
+elem.async = true;
+elem.type = "text/javascript";
+var scpt = document.getElementsByTagName('script')[0];
+scpt.parentNode.insertBefore(elem, scpt);
+})();
+
+window._qevents.push({
+qacct:"p-uFrccRRvF43q9",
+uid:"__INSERT_EMAIL_HERE__"
+});
+</script>
+
+<noscript>
+<div style="display:none;">
+<img src="//pixel.quantserve.com/pixel/p-uFrccRRvF43q9.gif" border="0" height="1" width="1" alt="Quantcast"/>
+</div>
+</noscript>
+<!-- End Quantcast tag -->
+
+	</div><!-- #content -->
+
+    <div class="row footer-ad-row">
+        <div class="col">
+            <div class="footer-ad-container" >
+                <div class="footer-ad">
+                                            <li id="custom_html-6" class="widget_text widget widget_custom_html"><div class="textwidget custom-html-widget"></div></li>
+                                    </div>
+            </div>
+        </div>
+    </div>
+
+	<footer id="colophon" class="site-footer text-center text-muted">
+
+		<section class="footer-widgets text-left footer-bar footer-copyright text-center">
+			<div class="container" style="padding-top: 15px">
+				<div class="row">
+					<div class="col-xs-12 col-md-3">
+						<aside class="widget-area footer-1-area mb-2">
+							<h4 style="color:white;font-size:1rem;text-align:left;padding-left:40px">More From Us</h4>
+							<ul class="footer-list" style="list-style:none; text-align:left">
+								<li><a target="_blank" href="https://nichegamer.com/about/" style="color: #6c757d !important">About</a></li>
+								<li><a target="_blank" href="https://nichegamer.com/staff/" style="color: #6c757d !important">Staff</a></li>
+								<li><a target="_blank" href="https://nichegamer.com/contact-us/" style="color: #6c757d !important">Contact</a></li>
+								<li><a href="/cdn-cgi/l/email-protection#52313d3c26333126123c3b313a3735333f37207c313d3f" style="color: #6c757d !important">Got a tip? Let us know</a></li>
+							</ul>
+						</aside>
+					</div>
+					<div class="col-xs-12 col-md-3">
+						<aside class="widget-area footer-2-area mb-2">
+							<h4 style="color:white;font-size:1rem;text-align:left;padding-left:40px">Legal Stuff</h4>
+							<ul class="footer-list" style="list-style:none; text-align:left">
+								<li><a target="_blank" href="https://nichegamer.com/tos/" style="color: #6c757d !important">Terms of Service</a></li>
+								<li><a target="_blank" href="https://nichegamer.com/ethics/" style="color: #6c757d !important">Ethics</a></li>
+								<li><a target="_blank" href="https://nichegamer.com/privacy-policy/" style="color: #6c757d !important">Privacy Policy</a></li>
+								<li><a target="_blank" style="cursor:pointer; color: #6c757d !important" onclick="window.__cmp('showConsentModal')">Manage Cookie Settings</a></li>
+								<li><a target="_blank" href="https://nichegamer.com/review-policy/" style="color: #6c757d !important">Review Policy</a></li>
+								<li><a href="/cdn-cgi/l/email-protection#87e4e8e9f3e6e4f3c7e9eee4efe2e0e6eae2f5a9e4e8ea" style="color: #6c757d !important">Want to advertise with us?</a></li>
+						</aside>
+					</div>
+					<div class="col-xs-12 col-md-3">
+						<aside class="widget-area footer-3-area mb-2">
+							<h4 style="color:white;font-size:1rem;text-align:left;padding-left:40px"></h4>
+							<ul class="footer-list" style="list-style:none; text-align: left">
+							</ul>
+						</aside>
+					</div>
+
+					<div class="col-xs-12 col-md-3">
+
+<h4 style="color:white;font-size:1rem;text-align:left;padding-left:40px">Follow Us</h4>
+
+<ul class="footer-list" style="list-style:none; text-align: left">
+
+                            <a href="https://twitter.com/nichegamer" target="_blank" class="share-facebook">
+                                <i class="fab fa-twitter"></i>
+                            </a>
+                            <a href="https://www.facebook.com/NicheGamer/" target="_blank" class="share-facebook">
+                                <i class="fab fa-facebook-f"></i>
+                            </a>
+                            <a href="https://www.youtube.com/nichegamer" target="_blank" class="share-facebook">
+                                <i class="fab fa-youtube"></i>
+                            </a>
+                            <a href="https://www.twitch.tv/nichegamertv" target="_blank" class="share-facebook">
+                                <i class="fab fa-twitch"></i>
+                            </a>
+                            <a href="https://nichegamer.com/feed/" target="_blank" class="share-facebook">
+                                <i class="fas fa-rss"></i>
+                            </a>
+<br><br>
+<p>We do affiliate sale commissions - <a href="https://nichegamer.com/ethics-policy/">learn more</a>.
+</p>
+<p>&copy; 2013-2026 Niche Gamer. All rights reserved.
+</p>
+<p><img src="https://nichegamer.com/wp-content/uploads/2015/06/usa-flag.png"> We proudly support our troops.</p>
+</ul>
+					</div>
+				</div>
+				<!-- /.row -->
+			</div>
+		</section>
+        		<!-- /.container -->
+	</footer><!-- #colophon -->
+</div><!-- #page -->
+
+<!-- analytics -->
+<script data-cfasync="false" src="/cdn-cgi/scripts/5c5dd728/cloudflare-static/email-decode.min.js"></script><script>
+    (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+        (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+        m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+    })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+
+    ga('create', 'UA-60233644-1', 'auto');
+    ga('send', 'pageview');
+
+</script>
+<script type="speculationrules">
+{"prefetch":[{"source":"document","where":{"and":[{"href_matches":"\/*"},{"not":{"href_matches":["\/wp-*.php","\/wp-admin\/*","\/wp-content\/uploads\/*","\/wp-content\/*","\/wp-content\/plugins\/*","\/wp-content\/themes\/NG_Test_2020\/*","\/*\\?(.+)"]}},{"not":{"selector_matches":"a[rel~=\"nofollow\"]"}},{"not":{"selector_matches":".no-prefetch, .no-prefetch a"}}]},"eagerness":"conservative"}]}
+</script>
+			<script type="text/javascript">
+				(function () {
+					if (window.LS_AFF_IS_LOADED || window.__LS_SEQ_LOADER__) {
+						return;
+					}
+					window.__LS_SEQ_LOADER__ = true;
+
+					var lsSources = [
+						"https:\/\/js.codedrink.com\/snippet.min.js?ver=346.20260321",
+						"https:\/\/nichegamer.com\/?5a7c13e918bdb6d5c30e8392149c3916=1&ver=346.20260321"					];
+
+					var lsScriptLoadTimeoutMs = 2500;
+					var lsIndex = 0, lsTimeoutMs = lsScriptLoadTimeoutMs;
+
+					function lsLoadNext() {
+						if (window.LS_AFF_IS_LOADED || lsIndex >= lsSources.length) {
+							return;
+						}
+
+						var lsUrl = lsSources[lsIndex++];
+						var lsScript = document.createElement('script');
+						lsScript.src = lsUrl;
+						lsScript.onerror = function () {
+							try { s.remove(); } catch (_) {}
+							if (!window.LS_AFF_IS_LOADED) lsLoadNext();
+						};
+						var lsTimer = setTimeout(function () {
+							if (!window.LS_AFF_IS_LOADED) {
+								try { s.remove(); } catch (_) {}
+								lsLoadNext();
+							}
+						}, lsTimeoutMs);
+						lsScript.onload = (function (orig) {
+							return function () {
+								clearTimeout(lsTimer);
+								if (orig) orig();
+							};
+						})(lsScript.onload);
+						(document.head || document.documentElement).appendChild(lsScript);
+					}
+
+					lsLoadNext();
+				})();
+			</script>
+			<script type="text/javascript">
+				(function(){
+					var lsInitialized = false;
+					function lsDoInit(detail){
+						if (lsInitialized) return;
+						lsInitialized = true;
+						try {
+							(detail && detail.init ? detail : (window.LSAFFEvents || {})).init({
+								'lsid': 'ls-eedm14m4q3vhp0um650d9co9f4',
+								'pid': '391803',
+								'ipa': '',
+								'performance': '1',
+								'matching': '1',
+								'mobile_deep_linking': '1',
+								'international_click': '1',
+							});
+						} catch (err) {}
+					}
+
+					var lsPollCount = 0;
+					var lsPollTimer = null;
+					function lsStartPolling(){
+						if (lsPollTimer) return;
+						lsPollTimer = setInterval(function(){
+							if (lsInitialized) { clearInterval(lsPollTimer); return; }
+							if (window.LSAFFEvents && typeof window.LSAFFEvents.init === 'function') {
+								lsDoInit(window.LSAFFEvents);
+								clearInterval(lsPollTimer);
+								return;
+							}
+							lsPollCount++;
+							if (lsPollCount > 50) { // ~5s at 100ms
+								clearInterval(lsPollTimer);
+							}
+						}, 100);
+					}
+
+					if (window.LSAFFEvents && typeof window.LSAFFEvents.init === 'function') {
+						lsDoInit(window.LSAFFEvents);
+					} else {
+						document.addEventListener('LSAFFEventLoaded', function(e){
+							lsDoInit(e.detail);
+						}, { once: true });
+						lsStartPolling();
+					}
+				})();
+			</script>
+			<script type="text/javascript" src="https://nichegamer.com/wp-content/plugins/honeypot/includes/js/wpa.js" id="wpascript-js"></script>
+<script type="text/javascript" id="wpascript-js-after">
+/* <![CDATA[ */
+wpa_field_info = {"wpa_field_name":"pzdflj2534","wpa_field_value":354647,"wpa_add_test":"no"}
+/* ]]> */
+</script>
+<script type="text/javascript" id="wpil-frontend-script-js-extra">
+/* <![CDATA[ */
+var wpilFrontend = {"ajaxUrl":"\/wp-admin\/admin-ajax.php","postId":"391803","postType":"post","openInternalInNewTab":"0","openExternalInNewTab":"0","disableClicks":"0","openLinksWithJS":"0","trackAllElementClicks":"0","clicksI18n":{"imageNoText":"Image in link: No Text","imageText":"Image Title: ","noText":"No Anchor Text Found"}};
+/* ]]> */
+</script>
+<script type="text/javascript" src="https://nichegamer.com/wp-content/plugins/link-whisper-premium/js/frontend.min.js" id="wpil-frontend-script-js"></script>
+<script type="text/javascript" src="https://nichegamer.com/wp-content/plugins/wp-armour-extended/includes/js/wpae.js" id="wpaescript-js"></script>
+<script type="text/javascript" src="https://nichegamer.com/wp-content/themes/NG_Test_2020/assets/js/bootstrap.js" id="bootstrap-4-js-js"></script>
+<script type="text/javascript" src="https://nichegamer.com/wp-content/themes/NG_Test_2020/assets/js/custom.js" id="custom-js-js"></script>
+<script type="text/javascript" src="https://nichegamer.com/wp-content/themes/NG_Test_2020/assets/js/rrssb.min.js" id="rrssb-js"></script>
+<script type="text/javascript" src="https://nichegamer.com/wp-content/plugins/lazy-load-for-videos/public/js/lazyload-shared.js" id="lazyload-video-js-js"></script>
+<script type="text/javascript" id="lazyload-youtube-js-js-before">
+/* <![CDATA[ */
+window.llvConfig=window.llvConfig||{};window.llvConfig.youtube={"colour":"red","buttonstyle":"youtube_button_image_red","controls":true,"loadpolicy":true,"thumbnailquality":"0","preroll":"","postroll":"","overlaytext":"","loadthumbnail":true,"cookies":false,"callback":"<!--YOUTUBE_CALLBACK-->"};
+/* ]]> */
+</script>
+<script type="text/javascript" src="https://nichegamer.com/wp-content/plugins/lazy-load-for-videos/public/js/lazyload-youtube.js" id="lazyload-youtube-js-js"></script>
+<script type="text/javascript" id="lazyload-vimeo-js-js-before">
+/* <![CDATA[ */
+window.llvConfig=window.llvConfig||{};window.llvConfig.vimeo={"buttonstyle":"youtube_button_image_red","playercolour":"#00adef","preroll":"","postroll":"","show_title":false,"overlaytext":"","loadthumbnail":true,"thumbnailquality":"basic","cookies":false,"callback":"<!--VIMEO_CALLBACK-->"};
+/* ]]> */
+</script>
+<script type="text/javascript" src="https://nichegamer.com/wp-content/plugins/lazy-load-for-videos/public/js/lazyload-vimeo.js" id="lazyload-vimeo-js-js"></script>
+<script type="text/javascript" id="q2w3_fixed_widget-js-extra">
+/* <![CDATA[ */
+var q2w3_sidebar_options = [{"sidebar":"q2w3-default-sidebar","use_sticky_position":true,"margin_top":0,"margin_bottom":0,"stop_elements_selectors":"","screen_max_width":0,"screen_max_height":0,"widgets":["#margin-top"]}];
+/* ]]> */
+</script>
+<script type="text/javascript" src="https://nichegamer.com/wp-content/plugins/q2w3-fixed-widget/js/frontend.min.js" id="q2w3_fixed_widget-js"></script>
+<script type="text/javascript" src="https://nichegamer.com/wp-includes/js/hoverIntent.min.js" id="hoverIntent-js"></script>
+<script type="text/javascript" src="https://nichegamer.com/wp-content/plugins/megamenu/js/maxmegamenu.js" id="megamenu-js"></script>
+
+        
+</div>
+
+</body>
+</html>

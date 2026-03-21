@@ -1,0 +1,16 @@
+{
+  "name": "Anime Archive",
+  "short_name": "Archive",
+  "start_url": "./anime-archive.html",
+  "display": "standalone",
+  "background_color": "#080b12",
+  "theme_color": "#e63946",
+  "description": "Offline-ready personal anime list and image library manager.",
+  "icons": [
+    {
+      "src": "https://cdn-icons-png.flaticon.com/512/3504/3504382.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    }
+  ]
+}
